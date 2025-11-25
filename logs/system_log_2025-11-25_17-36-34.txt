@@ -1,0 +1,393 @@
+================================ 
+СИСТЕМНАЯ СТАТИСТИКА 
+================================ 
+Дата и время: 25.11.2025 17:36:34,70 
+ 
+[ИНФОРМАЦИЯ О СИСТЕМЕ] 
+Имя компьютера: FRON 
+Пользователь: f_roz 
+Домен: FRON 
+Процессор: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD 
+Архитектура: AMD64 
+Количество ядер: 16 
+OS Name:                       Майкрософт Windows 11 Pro
+OS Version:                    10.0.26200 N/A Build 26200
+System Boot Time:              25.11.2025, 15:33:22
+System Type:                   x64-based PC
+BIOS Version:                  American Megatrends International, LLC. FA808UM.310, 08.09.2025
+Total Physical Memory:         15 661 MB
+Available Physical Memory:     5 110 MB
+ 
+[ВРЕМЯ РАБОТЫ (UPTIME)] 
+Statistics since 25.11.2025 15:33:39
+ 
+[ИСПОЛЬЗОВАНИЕ РЕСУРСОВ] 
+
+
+Name           : AMD Ryzen 7 260 w/ Radeon 780M Graphics        
+LoadPercentage : 11
+
+
+
+Память: используется 10.35 GB из 15.29 GB (свободно 4.94 GB)
+ 
+[ИНФОРМАЦИЯ О ДИСКАХ] 
+
+Name Used(GB) Free(GB) Total(GB)
+---- -------- -------- ---------
+C      403,86    72,24     476,1
+
+
+ 
+[ТОП-15 ПРОЦЕССОВ ПО ПАМЯТИ] 
+
+ProcessName         Memory(MB) CPU           Id
+-----------         ---------- ---           --
+Memory Compression      826,96             3552
+browser                 453,44 33,234375  22408
+MsMpEng                 352,93             6492
+explorer                332,04 47,953125  12016
+browser                 328,79 130,75     29204
+MSPCManager             315,64 945,328125 26128
+Telegram                 305,7 34,546875  19548
+browser                 284,28 60,734375   4136
+msedgewebview2          235,77 23,078125  28544
+browser                 222,05 17,859375  22772
+CurseForge              174,79 17,21875   23192
+mpv                     173,46 617,359375 16148
+browser                 170,36 6,484375    7816
+PhoneExperienceHost     168,31 4,59375    19044
+svchost                 164,34             4012
+
+
+ 
+[СЕТЕВЫЕ ИНТЕРФЕЙСЫ] 
+
+Name              Status       LinkSpeed  MacAddress       
+----              ------       ---------  ----------       
+Ethernet 3        Not Present  0 bps      0A-00-27-00-00-2E
+Беспроводная сеть Up           866.7 Mbps 58-02-05-F4-2B-BE
+outline-tap0      Up           100 Mbps   00-FF-68-33-FA-35
+Ethernet          Disconnected 0 bps      BC-FC-E7-C1-5E-5D
+Radmin VPN        Up           100 Mbps   02-50-47-BE-2F-63
+
+
+ 
+[IP-КОНФИГУРАЦИЯ] 
+Ethernet adapter Radmin VPN:
+   IPv6 Address. . . . . . . . . . . : fdfd::1a41:1839
+   Link-local IPv6 Address . . . . . : fe80::d6f4:ed1d:4b45:be7a%4
+   IPv4 Address. . . . . . . . . . . : 26.65.24.57
+   Subnet Mask . . . . . . . . . . . : 255.0.0.0
+   Default Gateway . . . . . . . . . : 26.0.0.1
+Ethernet adapter Ethernet:
+Wireless LAN adapter ������祭�� �� �����쭮� ��* 9:
+Wireless LAN adapter ������祭�� �� �����쭮� ��* 10:
+Ethernet adapter outline-tap0:
+   Link-local IPv6 Address . . . . . : fe80::da47:43a7:2671:5ed1%11
+   IPv4 Address. . . . . . . . . . . : 10.0.85.2
+   Subnet Mask . . . . . . . . . . . : 255.255.255.255
+   Default Gateway . . . . . . . . . : 
+Wireless LAN adapter ���஢����� ���:
+   Link-local IPv6 Address . . . . . : fe80::8312:fc2c:eca7:f7f9%15
+   IPv4 Address. . . . . . . . . . . : 192.168.3.28
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.3.1
+   IPv6 Address. . . . . . . . . . . : 2001:0:14c9:d804:38b2:6cbd:a11b:85fb
+   Link-local IPv6 Address . . . . . : fe80::38b2:6cbd:a11b:85fb%16
+   Default Gateway . . . . . . . . . : 
+ 
+[АКТИВНЫЕ TCP-ПОДКЛЮЧЕНИЯ] 
+  TCP    10.0.85.2:49409        20.59.87.226:443       ESTABLISHED     6584
+  TCP    10.0.85.2:52159        52.168.117.169:443     ESTABLISHED     28348
+  TCP    10.0.85.2:52177        18.65.39.120:443       ESTABLISHED     4196
+  TCP    10.0.85.2:52179        89.187.178.183:8886    ESTABLISHED     23796
+  TCP    10.0.85.2:52181        213.180.193.234:443    ESTABLISHED     3136
+  TCP    10.0.85.2:54289        52.123.131.14:443      ESTABLISHED     28348
+  TCP    10.0.85.2:54291        52.112.120.75:443      ESTABLISHED     29524
+  TCP    10.0.85.2:54292        87.250.251.20:443      ESTABLISHED     3136
+  TCP    10.0.85.2:54296        104.46.162.226:443     ESTABLISHED     29524
+  TCP    10.0.85.2:54411        95.173.204.44:8886     ESTABLISHED     23796
+  TCP    10.0.85.2:60849        142.250.102.188:5228   ESTABLISHED     3136
+  TCP    10.0.85.2:60909        89.222.107.167:8886    ESTABLISHED     23796
+  TCP    10.0.85.2:60959        18.97.36.6:443         ESTABLISHED     3136
+  TCP    10.0.85.2:60961        149.154.167.41:443     ESTABLISHED     19548
+  TCP    10.0.85.2:60967        149.154.167.51:443     ESTABLISHED     19548
+  TCP    10.0.85.2:60979        129.80.246.81:443      ESTABLISHED     16264
+  TCP    10.0.85.2:61007        89.222.107.166:8886    ESTABLISHED     23796
+  TCP    10.0.85.2:61015        178.249.213.82:8886    ESTABLISHED     23796
+  TCP    10.0.85.2:63160        140.82.112.26:443      ESTABLISHED     3136
+  TCP    10.0.85.2:63168        93.186.225.205:443     ESTABLISHED     3136
+  TCP    10.0.85.2:63170        93.186.237.6:443       ESTABLISHED     3136
+  TCP    10.0.85.2:63176        104.26.13.183:443      ESTABLISHED     23380
+  TCP    10.0.85.2:63178        93.186.225.194:443     ESTABLISHED     3136
+  TCP    10.0.85.2:63184        209.237.141.15:443     ESTABLISHED     23380
+  TCP    10.0.85.2:63188        46.17.203.154:443      ESTABLISHED     3136
+  TCP    10.0.85.2:63190        46.17.203.154:443      ESTABLISHED     3136
+  TCP    10.0.85.2:63192        87.240.190.90:443      ESTABLISHED     3136
+  TCP    10.0.85.2:63200        108.156.60.118:443     ESTABLISHED     7448
+  TCP    127.0.0.1:1042         127.0.0.1:58641        ESTABLISHED     18204
+  TCP    127.0.0.1:1042         127.0.0.1:58644        ESTABLISHED     18204
+  TCP    127.0.0.1:6850         127.0.0.1:49691        ESTABLISHED     11260
+  TCP    127.0.0.1:9012         127.0.0.1:49685        ESTABLISHED     12396
+  TCP    127.0.0.1:13030        127.0.0.1:49675        ESTABLISHED     6556
+  TCP    127.0.0.1:49674        127.0.0.1:50100        ESTABLISHED     9860
+  TCP    127.0.0.1:49675        127.0.0.1:13030        ESTABLISHED     6556
+  TCP    127.0.0.1:49685        127.0.0.1:9012         ESTABLISHED     9860
+  TCP    127.0.0.1:49691        127.0.0.1:6850         ESTABLISHED     6384
+  TCP    127.0.0.1:50100        127.0.0.1:49674        ESTABLISHED     6220
+  TCP    127.0.0.1:51734        127.0.0.1:58885        ESTABLISHED     4196
+  TCP    127.0.0.1:58641        127.0.0.1:1042         ESTABLISHED     12396
+  TCP    127.0.0.1:58644        127.0.0.1:1042         ESTABLISHED     6364
+  TCP    127.0.0.1:58885        127.0.0.1:51734        ESTABLISHED     18264
+  TCP    192.168.3.28:52142     198.244.203.247:17301  ESTABLISHED     6436
+  TCP    192.168.3.28:52160     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:52178     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:52180     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:52182     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:53247     4.208.35.47:443        ESTABLISHED     28348
+  TCP    192.168.3.28:54290     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:54294     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:54295     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:54297     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:54379     93.186.237.7:443       ESTABLISHED     3136
+  TCP    192.168.3.28:54412     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:56419     142.250.107.188:5228   ESTABLISHED     21844
+  TCP    192.168.3.28:57517     57.153.79.230:443      ESTABLISHED     29524
+  TCP    192.168.3.28:57557     93.186.237.6:443       ESTABLISHED     3136
+  TCP    192.168.3.28:57558     93.186.237.7:443       ESTABLISHED     3136
+  TCP    192.168.3.28:58750     162.244.34.43:8886     ESTABLISHED     23796
+  TCP    192.168.3.28:58751     185.162.130.27:8886    ESTABLISHED     23796
+  TCP    192.168.3.28:58754     185.162.130.8:8886     ESTABLISHED     23796
+  TCP    192.168.3.28:58757     185.162.130.26:8886    ESTABLISHED     23796
+  TCP    192.168.3.28:58760     162.244.34.11:8886     ESTABLISHED     23796
+  TCP    192.168.3.28:58763     185.162.130.221:8886   ESTABLISHED     23796
+  TCP    192.168.3.28:58765     185.223.94.98:8886     ESTABLISHED     23796
+  TCP    192.168.3.28:58766     162.244.34.42:8886     ESTABLISHED     23796
+  TCP    192.168.3.28:58772     185.162.130.28:8886    ESTABLISHED     23796
+  TCP    192.168.3.28:58774     185.162.130.222:8886   ESTABLISHED     23796
+  TCP    192.168.3.28:58775     162.244.34.16:8886     ESTABLISHED     23796
+  TCP    192.168.3.28:58776     162.244.34.17:8886     ESTABLISHED     23796
+  TCP    192.168.3.28:58777     162.244.34.4:8886      ESTABLISHED     23796
+  TCP    192.168.3.28:58780     185.162.130.21:8886    ESTABLISHED     23796
+  TCP    192.168.3.28:58784     185.162.128.94:8886    ESTABLISHED     23796
+  TCP    192.168.3.28:58785     185.130.107.201:8886   ESTABLISHED     23796
+  TCP    192.168.3.28:58786     185.162.128.91:8886    ESTABLISHED     23796
+  TCP    192.168.3.28:58812     213.180.204.179:443    ESTABLISHED     3136
+  TCP    192.168.3.28:60846     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:60850     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:60910     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:60960     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:60964     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:60968     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:60980     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:61008     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:61016     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:62645     46.17.203.154:443      ESTABLISHED     3136
+  TCP    192.168.3.28:62840     172.67.131.170:443     ESTABLISHED     24472
+  TCP    192.168.3.28:63161     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63169     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63171     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63177     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63179     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63185     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63189     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63191     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63193     94.228.122.4:50276     ESTABLISHED     2220
+  TCP    192.168.3.28:63201     94.228.122.4:50276     ESTABLISHED     2220
+ 
+[ПРОСЛУШИВАЕМЫЕ ПОРТЫ] 
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1828
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       12000
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       4560
+  TCP    0.0.0.0:12177          0.0.0.0:0              LISTENING       6220
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       1616
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1512
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       2596
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       3788
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       5848
+  TCP    0.0.0.0:49680          0.0.0.0:0              LISTENING       1588
+  TCP    0.0.0.0:54326          0.0.0.0:0              LISTENING       6436
+  TCP    10.0.85.2:139          0.0.0.0:0              LISTENING       4
+  TCP    26.65.24.57:139        0.0.0.0:0              LISTENING       4
+  TCP    192.168.3.28:139       0.0.0.0:0              LISTENING       4
+  TCP    192.168.3.28:52142     0.0.0.0:0              LISTENING       6436
+  TCP    [::]:135               [::]:0                 LISTENING       1828
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:7680              [::]:0                 LISTENING       4560
+  TCP    [::]:49664             [::]:0                 LISTENING       1616
+  TCP    [::]:49665             [::]:0                 LISTENING       1512
+  TCP    [::]:49666             [::]:0                 LISTENING       2596
+  TCP    [::]:49667             [::]:0                 LISTENING       3788
+  TCP    [::]:49668             [::]:0                 LISTENING       5848
+  TCP    [::]:49680             [::]:0                 LISTENING       1588
+  TCP    [::]:54327             [::]:0                 LISTENING       6436
+ 
+[СТАТИСТИКА СЕТЕВОГО ТРАФИКА] 
+Interface Statistics
+
+                           Received            Sent
+
+Bytes                     580028098       336577308
+Unicast packets             1034646          792644
+Non-unicast packets             645           67875
+Discards                        290               0
+Errors                            0               1
+Unknown protocols                 0
+ 
+[ЗАПУЩЕННЫЕ СЛУЖБЫ (Running)] 
+
+Name                           DisplayName                                                                             
+----                           -----------                                                                             
+AMD Crash Defender Service     AMD Crash Defender Service                                                              
+AMD External Events Utility    AMD External Events Utility                                                             
+amdpmfservice                  AMD PMF Service                                                                         
+AmdPpkgSvc                     AMD Provisioning Packages Service                                                       
+Appinfo                        Сведения о приложении                                                                   
+AppXSvc                        Служба развертывания AppX (AppXSVC)                                                     
+ArmouryCrateControlInterface   Armoury Crate Control Interface                                                         
+ArmouryCrateService            Armoury Crate Service                                                                   
+AsusAppService                 ASUS App Service                                                                        
+AsusCertService                ASUS Certificate Service                                                                
+ASUSOptimization               ASUS Optimization                                                                       
+AsusPTPService                 AsusPTPService                                                                          
+ASUSSoftwareManager            ASUS Software Manager                                                                   
+ASUSSwitch                     ASUS Switch                                                                             
+ASUSSystemAnalysis             ASUS System Analysis                                                                    
+ASUSSystemDiagnosis            ASUS System Diagnosis                                                                   
+AudioEndpointBuilder           Средство построения конечных точек Windows Audio                                        
+Audiosrv                       Windows Audio                                                                           
+BFE                            Служба базовой фильтрации                                                               
+BrokerInfrastructure           Служба инфраструктуры фоновых задач                                                     
+bthserv                        Служба поддержки Bluetooth                                                              
+camsvc                         Служба диспетчера доступа к возможностям                                                
+cbdhsvc_b8062                  Пользовательская служба буфера обмена_b8062                                             
+CDPSvc                         Служба платформы подключенных устройств                                                 
+CDPUserSvc_b8062               Служба пользователя платформы подключенных устройств_b8062                              
+ClickToRunSvc                  Microsoft Office Click-to-Run Service                                                   
+CloudBackupRestoreSvc_b8062    Облачная служба резервного копирования и восстановления_b8062                           
+CoreMessagingRegistrar         CoreMessaging                                                                           
+CryptSvc                       Службы криптографии                                                                     
+DcomLaunch                     Модуль запуска процессов DCOM-сервера                                                   
+DeviceAssociationService       Служба сопоставления устройств                                                          
+DeviceInstall                  Служба установки устройств                                                              
+DevicesFlowUserSvc_b8062       DevicesFlow_b8062                                                                       
+DevQueryBroker                 Брокер фонового обнаружения DevQuery                                                    
+Dhcp                           DHCP-клиент                                                                             
+DiagTrack                      Функциональные возможности для подключенных пользователей и телеметрия                  
+DispBrokerDesktopSvc           Служба политики отображения                                                             
+DisplayEnhancementService      Служба улучшения отображения                                                            
+Dnscache                       DNS-клиент                                                                              
+DoSvc                          Оптимизация доставки                                                                    
+DPS                            Служба политики диагностики                                                             
+DsSvc                          Служба совместного доступа к данным                                                     
+DusmSvc                        Использование данных                                                                    
+EventLog                       Журнал событий Windows                                                                  
+EventSystem                    Система событий COM+                                                                    
+FontCache                      Служба кэша шрифтов Windows                                                             
+GameSDK Service                GameSDK Service                                                                         
+GamingServices                 Gaming Services                                                                         
+GamingServicesNet              Gaming Services                                                                         
+gpsvc                          Клиент групповой политики                                                               
+hidserv                        Доступ к HID-устройствам                                                                
+hns                            Сетевая служба узла                                                                     
+HPPrintScanDoctorService       HP Print Scan Doctor Service                                                            
+HvHost                         Служба узла HV                                                                          
+IKEEXT                         Модули ключей IPsec для обмена ключами в Интернете и протокола IP с проверкой подлинн...
+InstallService                 Служба установки Microsoft Store                                                        
+InventorySvc                   Служба инвентаризации и оценки совместимости                                            
+iphlpsvc                       Вспомогательная служба IP                                                               
+KeyIso                         Изоляция ключей CNG                                                                     
+LanmanServer                   Сервер                                                                                  
+LanmanWorkstation              Рабочая станция                                                                         
+lfsvc                          Служба географического положения                                                        
+LicenseManager                 Служба Windows License Manager                                                          
+LightingService                ASUS AURA SYNC lighting service                                                         
+lmhosts                        Модуль поддержки NetBIOS через TCP/IP                                                   
+LSM                            Диспетчер локальных сеансов                                                             
+MDCoreSvc                      Основная служба Microsoft Defender                                                      
+mpssvc                         Брандмауэр Защитника Windows                                                            
+NcbService                     Посредник подключений к сети                                                            
+Netman                         Сетевые подключения                                                                     
+netprofm                       Служба списка сетей                                                                     
+NetSetupSvc                    Служба настройки сети                                                                   
+NgcCtnrSvc                     Контейнер службы Microsoft Passport                                                     
+NgcSvc                         Служба Microsoft Passport                                                               
+NPSMSvc_b8062                  Служба диспетчера текущего сеанса_b8062                                                 
+nsi                            Служба интерфейса сохранения сети                                                       
+nvagent                        Служба виртуализации сети                                                               
+NvContainerLocalSystem         NVIDIA LocalSystem Container                                                            
+NVDisplay.ContainerLocalSystem NVIDIA Display Container LS                                                             
+OneSyncSvc_b8062               Синхронизация узла_b8062                                                                
+OutlineService                 OutlineService                                                                          
+PcaSvc                         Служба помощника по совместимости программ                                              
+PenService_b8062               PenService_b8062                                                                        
+PlugPlay                       Plug and Play                                                                           
+PolicyAgent                    Агент политики IPsec                                                                    
+Power                          Питание                                                                                 
+ProfSvc                        Служба профилей пользователей                                                           
+RasMan                         Диспетчер подключений удаленного доступа                                                
+RmSvc                          Служба управления радио                                                                 
+ROG Live Service               ROG Live Service                                                                        
+RpcEptMapper                   Сопоставитель конечных точек RPC                                                        
+RpcSs                          Удаленный вызов процедур (RPC)                                                          
+RtkAudioUniversalService       Realtek Audio Universal Service                                                         
+RtkBtManServ                   Realtek Bluetooth Device Manager Service                                                
+RvControlSvc                   Radmin VPN Control Service                                                              
+SamSs                          Диспетчер учетных записей безопасности                                                  
+Schedule                       Планировщик задач                                                                       
+seclogon                       Вторичный вход в систему                                                                
+SecurityHealthService          Служба "Безопасность Windows"                                                           
+SENS                           Служба уведомления о системных событиях                                                 
+SharedAccess                   Общий доступ к подключению к Интернету (ICS)                                            
+ShellHWDetection               Определение оборудования оболочки                                                       
+Spooler                        Диспетчер печати                                                                        
+sppsvc                         Защита программного обеспечения                                                         
+SSDPSRV                        Обнаружение SSDP                                                                        
+SstpSvc                        Служба SSTP                                                                             
+StateRepository                Служба репозитория состояний                                                            
+StiSvc                         Служба загрузки изображений Windows (WIA)                                               
+StorSvc                        Служба хранилища                                                                        
+SysMain                        SysMain                                                                                 
+SystemEventsBroker             Брокер системных событий                                                                
+TextInputManagementService     Служба управления текстовым вводом                                                      
+Themes                         Темы                                                                                    
+TimeBrokerSvc                  Брокер времени                                                                          
+TokenBroker                    Диспетчер учетных веб-записей                                                           
+TrkWks                         Клиент отслеживания изменившихся связей                                                 
+TrustedInstaller               Установщик модулей Windows                                                              
+UdkUserSvc_b8062               Пользовательская служба UDK_b8062                                                       
+UserManager                    Диспетчер пользователей                                                                 
+UsoSvc                         Служба оркестратора обновлений                                                          
+VaultSvc                       Диспетчер учетных данных                                                                
+W32Time                        Служба времени Windows                                                                  
+Wcmsvc                         Диспетчер подключений Windows                                                           
+WdiServiceHost                 Узел службы диагностики                                                                 
+WdiSystemHost                  Узел системы диагностики                                                                
+WdNisSvc                       Служба проверки сети антивирусной программы Microsoft Defender                          
+webthreatdefusersvc_b8062      Служба защиты пользователей от веб-угроз_b8062                                          
+whesvc                         Работоспособность и оптимизированные взаимодействия Windows                             
+WinDefend                      Служба антивирусной программы Microsoft Defender                                        
+WinHttpAutoProxySvc            Служба автоматического обнаружения веб-прокси WinHTTP                                   
+Winmgmt                        Инструментарий управления Windows                                                       
+wisvc                          Служба предварительной оценки Windows                                                   
+WlanSvc                        Служба автонастройки WLAN                                                               
+WpnService                     Служба системы push-уведомлений Windows                                                 
+WpnUserService_b8062           Пользовательская служба push-уведомлений Windows_b8062                                  
+WSAIFabricSvc                  WSAIFabricSvc                                                                           
+wscsvc                         Центр обеспечения безопасности                                                          
+WSearch                        Windows Search                                                                          
+WSLService                     WSL Service                                                                             
+XblAuthManager                 Диспетчер проверки подлинности Xbox Live                                                
+YandexBrowserService           Yandex.Browser Update Service                                                           
+
+
+ 
+[ИНФОРМАЦИЯ О ПИТАНИИ] 
+Батарея: 100 2
+ 
+================================ 
+Лог сохранён: logs\system_log_2025-11-25_17-36-34.txt 
+Время завершения: 25.11.2025 17:36:43,61 
+================================ 
