@@ -1,0 +1,1900 @@
+======================================== 
+РЎРРЎРўР•РњРќРђРЇ РЎРўРђРўРРЎРўРРљРђ 
+======================================== 
+Р”Р°С‚Р° Рё РІСЂРµРјСЏ: 25.11.2025 17:30:38,52 
+ 
+[РРќР¤РћР РњРђР¦РРЇ Рћ РЎРРЎРўР•РњР•] 
+
+Имя узла:                                FRON
+Имя ОС:                                  Майкрософт Windows 11 Pro
+Версия ОС:                               10.0.26200 Н/Д построение 26200
+Изготовитель ОС:                         Microsoft Corporation
+Конфигурация ОС:                         Изолированная рабочая станция
+Тип сборки ОС:                           Multiprocessor Free
+Зарегистрированный владелец:             f_rozhin123@mail.ru
+Зарегистрированная организация:          Н/Д
+Код продукта:                            00330-80000-00000-AA271
+Дата исходной установки:                 21.08.2025, 23:19:17
+Время загрузки системы:                  25.11.2025, 15:33:22
+Изготовитель системы:                    ASUSTeK COMPUTER INC.
+Модель системы:                          ASUS TUF Gaming A18 FA808UM_FA808UM
+Тип системы:                             x64-based PC
+Процессоры:                              Число процессоров - 1.
+                                         [01]: AMD64 Family 25 Model 117 Stepping 2 AuthenticAMD ~3801 МГц
+Версия BIOS:                             American Megatrends International, LLC. FA808UM.310, 08.09.2025
+Каталог Windows:                         C:\WINDOWS
+Системный каталог:                       C:\WINDOWS\system32
+Устройство загрузки:                     \Device\HarddiskVolume1
+Язык системы:                            ru;Русский
+Язык ввода:                              ru;Русский
+Часовой пояс:                            (UTC+05:00) Екатеринбург
+Полный объем физической памяти:          15 661 МБ
+Доступная физическая память:             5 297 МБ
+Виртуальная память: максимальный размер: 33 069 МБ
+Виртуальная память: доступна:            17 688 МБ
+Виртуальная память: используется:        15 381 МБ
+Расположение файла подкачки:             C:\pagefile.sys
+Домен:                                   WORKGROUP
+Сервер для входа:                        \\FRON
+Исправления:                             Число установленных исправлений - 7.
+                                         [01]: KB5067931
+                                         [02]: KB5050575
+                                         [03]: KB5054156
+                                         [04]: KB5054273
+                                         [05]: KB5059093
+                                         [06]: KB5068861
+                                         [07]: KB5067035
+Сетевые адаптеры:                        Число сетевых адаптеров - 5.
+                                         [01]: Realtek PCIe GbE Family Controller
+                                               Имя подключения: Ethernet
+                                               Состояние:       Носитель отключен
+                                         [02]: Realtek 8852CE WiFi 6E PCI-E NIC
+                                               Имя подключения: Беспроводная сеть
+                                               DHCP включен:    Да
+                                               DHCP-сервер:     192.168.3.1
+                                               IP-адрес
+                                               [01]: 192.168.3.28
+                                               [02]: fe80::8312:fc2c:eca7:f7f9
+                                         [03]: VirtualBox Host-Only Ethernet Adapter
+                                               Имя подключения: Ethernet 3
+                                               Состояние:       Оборудование не найдено
+                                         [04]: TAP-Windows Adapter V9
+                                               Имя подключения: outline-tap0
+                                               DHCP включен:    Нет
+                                               IP-адрес
+                                               [01]: 10.0.85.2
+                                               [02]: fe80::da47:43a7:2671:5ed1
+                                         [05]: Famatech Radmin VPN Ethernet Adapter
+                                               Имя подключения: Radmin VPN
+                                               DHCP включен:    Нет
+                                               IP-адрес
+                                               [01]: 26.65.24.57
+                                               [02]: fe80::d6f4:ed1d:4b45:be7a
+                                               [03]: fdfd::1a41:1839
+Безопасность на основе виртуализации:    Состояние: Выполняется
+                                         Обязательные свойства безопасности:
+                                               Базовая поддержка виртуализации
+                                         Доступные свойства безопасности:
+                                               Базовая поддержка виртуализации
+                                               Защита DMA
+                                               Код UEFI только для чтения
+                                               Снижение рисков безопасности SMM 1.0
+                                               Управление выполнением на основе режимов
+                                         Services Configured:
+                                               Условие обязательной целостности кода низкоуровневой оболочки
+                                               Безопасный запуск
+                                               Измерение встроенного ПО SMM
+                                         Services Running:
+                                               Условие обязательной целостности кода низкоуровневой оболочки
+                                               Безопасный запуск
+                                               Измерение встроенного ПО SMM
+                                         App Control for Business policy: Применено
+                                         App Control for Business user mode policy: Выкл.
+                                         Функции безопасности включены:
+                                         Уровень изоляции SMM: 30
+Требования Hyper-V:                      Обнаружена низкоуровневая оболочка. Функции, необходимые для Hyper-V, отображены не будут.
+ 
+[Р’Р Р•РњРЇ Р РђР‘РћРўР« РЎРРЎРўР•РњР«] 
+ 
+[РРЎРџРћР›Р¬Р—РћР’РђРќРР• Р Р•РЎРЈР РЎРћР’] 
+
+Имя образа                     PID Имя сессии          № сеанса       Память Состояние       Пользователь                                           Время ЦП Заголовок окна                                                          
+========================= ======== ================ =========== ============ =============== ================================================== ============ ========================================================================
+System Idle Process              0 Services                   0         8 КБ Unknown         NT AUTHORITY\СИСТЕМА                                   29:12:23 Н/Д                                                                     
+System                           4 Services                   0       168 КБ Unknown         Н/Д                                                     0:04:16 Н/Д                                                                     
+Secure System                  236 Services                   0    67 544 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+Registry                       280 Services                   0    36 712 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+smss.exe                       792 Services                   0     1 500 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+csrss.exe                     1300 Services                   0     6 628 КБ Unknown         Н/Д                                                     0:00:05 Н/Д                                                                     
+wininit.exe                   1512 Services                   0     8 400 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+csrss.exe                     1536 Console                    1     8 936 КБ Unknown         Н/Д                                                     0:00:13 Н/Д                                                                     
+services.exe                  1588 Services                   0    18 352 КБ Unknown         Н/Д                                                     0:00:05 Н/Д                                                                     
+LsaIso.exe                    1596 Services                   0     4 224 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+lsass.exe                     1616 Services                   0    33 108 КБ Unknown         Н/Д                                                     0:00:13 Н/Д                                                                     
+svchost.exe                   1740 Services                   0    41 096 КБ Unknown         Н/Д                                                     0:00:08 Н/Д                                                                     
+fontdrvhost.exe               1752 Services                   0     4 664 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   1828 Services                   0    20 440 КБ Unknown         Н/Д                                                     0:00:17 Н/Д                                                                     
+svchost.exe                   1880 Services                   0    13 628 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+WUDFCompanionHost.exe         1888 Services                   0     3 840 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+WUDFHost.exe                  1944 Services                   0     7 132 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+winlogon.exe                  2016 Console                    1    16 324 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+WUDFCompanionHost.exe         1392 Services                   0     3 688 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+fontdrvhost.exe               1404 Console                    1     7 540 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2056 Services                   0     6 728 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+amdpmfservice.exe             2068 Services                   0     8 008 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2080 Services                   0    12 196 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+svchost.exe                   2088 Services                   0     6 584 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+dwm.exe                       2164 Console                    1   125 132 КБ Running         Н/Д                                                     0:01:04 DWM Notification Window                                                 
+svchost.exe                   2300 Services                   0    10 584 КБ Unknown         Н/Д                                                     0:00:02 Н/Д                                                                     
+WUDFCompanionHost.exe         2308 Services                   0     3 684 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2368 Services                   0    11 764 КБ Unknown         Н/Д                                                     0:00:13 Н/Д                                                                     
+svchost.exe                   2380 Services                   0    13 716 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2388 Services                   0    15 196 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2580 Services                   0     9 756 КБ Unknown         Н/Д                                                     0:00:03 Н/Д                                                                     
+svchost.exe                   2596 Services                   0    17 480 КБ Unknown         Н/Д                                                     0:00:04 Н/Д                                                                     
+svchost.exe                   2604 Services                   0     7 840 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2708 Services                   0    13 260 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2712 Services                   0    10 896 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2772 Services                   0    11 272 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2816 Services                   0     7 324 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   2880 Services                   0    21 668 КБ Unknown         Н/Д                                                     0:00:07 Н/Д                                                                     
+svchost.exe                   2944 Services                   0    22 068 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+svchost.exe                   2984 Services                   0     9 380 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   3004 Services                   0    13 036 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   3588 Services                   0    14 084 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+NVDisplay.Container.exe       3648 Services                   0    29 636 КБ Unknown         Н/Д                                                     0:00:34 Н/Д                                                                     
+amdfendrsr.exe                3764 Services                   0     9 388 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+atiesrxx.exe                  3772 Services                   0    14 172 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AsusCertService.exe           3780 Services                   0     8 392 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   3788 Services                   0    19 004 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+svchost.exe                   4012 Services                   0   165 200 КБ Unknown         Н/Д                                                     0:02:10 Н/Д                                                                     
+svchost.exe                   4020 Services                   0     7 424 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   4028 Services                   0    10 076 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+atieclxx.exe                  4040 Console                    1    20 468 КБ Running         Н/Д                                                     0:00:02 SmartDC                                                                 
+svchost.exe                   3568 Services                   0     8 884 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+Memory Compression            3552 Services                   0   826 404 КБ Unknown         Н/Д                                                     0:00:19 Н/Д                                                                     
+svchost.exe                   3860 Services                   0    11 572 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   4168 Services                   0    11 064 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   4176 Services                   0     9 476 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   4300 Services                   0    61 596 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+svchost.exe                   4480 Services                   0    24 944 КБ Unknown         Н/Д                                                     0:00:18 Н/Д                                                                     
+svchost.exe                   4548 Services                   0    27 708 КБ Unknown         Н/Д                                                     0:00:03 Н/Д                                                                     
+svchost.exe                   4560 Services                   0    22 768 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+NVDisplay.Container.exe       4796 Console                    1    27 648 КБ Running         Н/Д                                                     0:00:00 NvContainerWindowClass000012BC                                          
+svchost.exe                   4808 Services                   0    32 344 КБ Unknown         Н/Д                                                     0:05:46 Н/Д                                                                     
+svchost.exe                   3288 Services                   0    18 432 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+svchost.exe                   5164 Services                   0     8 544 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+WmiPrvSE.exe                  5348 Services                   0    44 384 КБ Unknown         Н/Д                                                     0:14:31 Н/Д                                                                     
+svchost.exe                   5412 Services                   0    27 364 КБ Unknown         Н/Д                                                     0:00:05 Н/Д                                                                     
+AsusOptimization.exe          5500 Services                   0    13 300 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   5508 Services                   0    16 596 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   5592 Services                   0     9 300 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   5760 Services                   0     8 672 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+spoolsv.exe                   5848 Services                   0    21 132 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6040 Services                   0    11 900 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6140 Services                   0    12 744 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   5684 Services                   0    10 140 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+RtkAudUService64.exe          5844 Services                   0    17 548 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+ArmouryCrateControlInterf     6180 Services                   0    12 208 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AmdPpkgSvc.exe                6188 Services                   0     6 020 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AsusSoftwareManager.exe       6204 Services                   0    21 280 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+ArmouryCrate.Service.exe      6220 Services                   0    60 992 КБ Unknown         Н/Д                                                     0:00:02 Н/Д                                                                     
+AsusPTPService.exe            6232 Services                   0     7 020 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AsusAppService.exe            6240 Services                   0    29 156 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AsusSwitch.exe                6248 Services                   0    10 008 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AsusSystemDiagnosis.exe       6256 Services                   0    12 344 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AsusSystemAnalysis.exe        6268 Services                   0    17 660 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6284 Services                   0    22 832 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+svchost.exe                   6292 Services                   0    65 732 КБ Unknown         Н/Д                                                     0:00:17 Н/Д                                                                     
+HPPrintScanDoctorService.     6300 Services                   0    11 484 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6308 Services                   0     9 172 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6316 Services                   0    10 528 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+GameSDK.exe                   6324 Services                   0     9 056 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6340 Services                   0    34 084 КБ Unknown         Н/Д                                                     0:00:12 Н/Д                                                                     
+OutlineService.exe            6352 Services                   0    28 308 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+nvcontainer.exe               6368 Services                   0    35 780 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+LightingService.exe           6384 Services                   0    36 392 КБ Unknown         Н/Д                                                     0:00:03 Н/Д                                                                     
+MpDefenderCoreService.exe     6400 Services                   0    22 620 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+RtkAudUService64.exe          6416 Services                   0    15 848 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+RtkBtManServ.exe              6424 Services                   0     9 272 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+RvControlSvc.exe              6436 Services                   0    21 524 КБ Unknown         Н/Д                                                     0:00:06 Н/Д                                                                     
+svchost.exe                   6456 Services                   0     7 196 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+OfficeClickToRun.exe          6484 Services                   0    50 184 КБ Unknown         Н/Д                                                     0:00:02 Н/Д                                                                     
+MsMpEng.exe                   6492 Services                   0   310 356 КБ Unknown         Н/Д                                                     0:06:40 Н/Д                                                                     
+ROGLiveService.exe            6556 Services                   0    24 636 КБ Unknown         Н/Д                                                     0:00:11 Н/Д                                                                     
+svchost.exe                   6584 Services                   0    25 740 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6604 Services                   0     9 912 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+wslservice.exe                6612 Services                   0    27 612 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+service_update.exe            6624 Services                   0    19 848 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   6680 Services                   0    12 772 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+dasHost.exe                   7372 Services                   0    13 940 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+service_update.exe            7380 Services                   0    12 108 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+NgcIso.exe                    7416 Services                   0     4 096 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+WmiPrvSE.exe                  7572 Services                   0    12 936 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   8440 Services                   0    14 232 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+amdpmfserviceuser.exe         8844 Console                    1     6 424 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+AsusOptimizationStartupTa     8852 Console                    1    22 192 КБ Running         FRON\f_roz                                              0:00:00 HControl                                                                
+conhost.exe                   8868 Console                    1     7 224 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                   9028 Services                   0    10 348 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   9200 Services                   0    15 804 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+dllhost.exe                   9256 Console                    1    19 568 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+nvcontainer.exe               9516 Console                    1    21 084 КБ Running         Н/Д                                                     0:00:00 NvContainerWindowClass0000252C                                          
+ArmouryCrate.UserSessionH     9860 Console                    1    92 536 КБ Running         FRON\f_roz                                              0:00:07 GameVisual User Hidden Wnd                                              
+conhost.exe                   9880 Console                    1     7 288 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+AMDADLXServ.exe              10168 Console                    1    17 416 КБ Running         FRON\f_roz                                              0:00:00 AMD:ADLX-CapturingWindow_9232                                           
+nvcontainer.exe              10632 Console                    1    56 464 КБ Running         FRON\f_roz                                              0:00:04 BroadcastListenerWindow                                                 
+svchost.exe                  10964 Services                   0    23 788 КБ Unknown         Н/Д                                                     0:00:06 Н/Д                                                                     
+svchost.exe                  10972 Services                   0    29 608 КБ Unknown         Н/Д                                                     0:00:05 Н/Д                                                                     
+AsusHotkey.exe               11040 Console                    1     8 652 КБ Running         Н/Д                                                     0:00:00 ASUS AsHotkeyExec KeyLock App                                           
+gamingservicesnet.exe        11148 Services                   0    10 508 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+gamingservices.exe            8664 Services                   0    46 184 КБ Unknown         Н/Д                                                     0:00:08 Н/Д                                                                     
+sihost.exe                    8704 Console                    1    52 832 КБ Running         FRON\f_roz                                              0:00:05 OLEChannelWnd                                                           
+svchost.exe                  10916 Console                    1    11 620 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                   4516 Console                    1    31 800 КБ Unknown         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+svchost.exe                   1504 Services                   0    16 636 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   3752 Console                    1     7 480 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                   7164 Console                    1    39 272 КБ Running         FRON\f_roz                                              0:00:01 Windows Push Notifications Platform                                     
+taskhostw.exe                 9836 Console                    1    13 472 КБ Running         FRON\f_roz                                              0:00:00 Task Host Window                                                        
+svchost.exe                   3716 Services                   0    28 124 КБ Unknown         Н/Д                                                     0:00:06 Н/Д                                                                     
+AcPowerNotification.exe       6364 Console                    1    13 208 КБ Running         FRON\f_roz                                              0:00:13 WISPTIS                                                                 
+AacAmbientLighting.exe       11260 Console                    1    49 604 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+AggregatorHost.exe           11696 Services                   0    12 180 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                  11776 Services                   0     9 984 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                  12000 Services                   0    23 732 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+explorer.exe                 12016 Console                    1   321 652 КБ Running         FRON\f_roz                                              0:00:41 Н/Д                                                                     
+ShellHost.exe                12116 Console                    1    48 012 КБ Running         FRON\f_roz                                              0:00:00 Quick Settings                                                          
+CrossDeviceResume.exe        12476 Console                    1    53 416 КБ Running         FRON\f_roz                                              0:00:00 CrossDeviceResumeWindow                                                 
+svchost.exe                  12572 Services                   0    11 272 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+ArmourySocketServer.exe      12396 Console                    1     1 812 КБ Running         FRON\f_roz                                              0:00:00 ArmourySocketServer                                                     
+svchost.exe                  12772 Services                   0    28 872 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                  12244 Services                   0     5 684 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+ArmouryHtmlDebugServer.ex    13504 Console                    1       996 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+RtkAudUService64.exe         13512 Console                    1    18 188 КБ Running         FRON\f_roz                                              0:00:00 RealtekAudioBackgroundProcessClass                                      
+SearchIndexer.exe            13700 Services                   0    28 548 КБ Unknown         Н/Д                                                     0:00:09 Н/Д                                                                     
+svchost.exe                  13760 Services                   0    16 716 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                  14368 Services                   0    30 768 КБ Unknown         Н/Д                                                     0:00:04 Н/Д                                                                     
+svchost.exe                  14612 Console                    1    44 244 КБ Running         FRON\f_roz                                              0:00:00 OLEChannelWnd                                                           
+StartMenuExperienceHost.e     9088 Console                    1   155 188 КБ Running         FRON\f_roz                                              0:00:04 Пуск                                                                    
+SearchHost.exe               14668 Console                    1   132 956 КБ Running         FRON\f_roz                                              0:00:04 Поиск                                                                   
+svchost.exe                  12556 Services                   0    12 924 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+Widgets.exe                  13768 Console                    1    47 200 КБ Running         FRON\f_roz                                              0:00:01 OLEChannelWnd                                                           
+RuntimeBroker.exe            14804 Console                    1    64 808 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+svchost.exe                  14760 Console                    1    24 088 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+WidgetService.exe            15700 Console                    1    24 060 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           12864 Console                    1   116 488 КБ Running         FRON\f_roz                                              0:00:03 Н/Д                                                                     
+svchost.exe                  15792 Services                   0    24 596 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+msedgewebview2.exe           16456 Console                    1    11 436 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           17240 Console                    1    80 396 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+msedgewebview2.exe           17248 Console                    1    44 128 КБ Running         FRON\f_roz                                              0:00:00 OLEChannelWnd                                                           
+msedgewebview2.exe            7828 Console                    1    22 932 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+ctfmon.exe                   16192 Console                    1    32 444 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+LockApp.exe                  17944 Console                    1    79 396 КБ Running         FRON\f_roz                                              0:00:00 Экран блокировки Windows по умолчанию                                   
+asus_framework.exe           18204 Console                    1    20 836 КБ Running         Н/Д                                                     0:00:05 Н/Д                                                                     
+RuntimeBroker.exe            18212 Console                    1    46 468 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+PowerToys.exe                18388 Console                    1    12 176 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                  17380 Console                    1    21 768 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                  18940 Services                   0     7 432 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                  19208 Services                   0    20 324 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+NisSrv.exe                   14232 Services                   0    13 964 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+PhoneExperienceHost.exe      19044 Console                    1   169 276 КБ Running         FRON\f_roz                                              0:00:04 .NET-BroadcastEventWindow.21af1a5.0                                     
+PowerToys.AlwaysOnTop.exe    19900 Console                    1     4 984 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+PowerToys.Awake.exe          19956 Console                    1    18 504 КБ Running         FRON\f_roz                                              0:00:00 P                                                                       
+ShellExperienceHost.exe      20152 Console                    1    70 184 КБ Running         FRON\f_roz                                              0:00:00 Новое уведомление                                                       
+PowerToys.ColorPickerUI.e    20340 Console                    1    22 308 КБ Running         FRON\f_roz                                              0:00:01 WISPTIS                                                                 
+PowerToys.CropAndLock.exe    20456 Console                    1     2 900 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+PowerToys.FancyZones.exe     19596 Console                    1     6 620 КБ Running         FRON\f_roz                                              0:00:00 FancyZones_ZonesOverlay                                                 
+Microsoft.CmdPal.UI.exe       3688 Console                    1   111 600 КБ Running         FRON\f_roz                                              0:00:20 Всплывающее уведомление палитры команд                                  
+PowerToys.Peek.UI.exe        20944 Console                    1    13 476 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+PowerToys.PowerLauncher.e    21452 Console                    1    36 244 КБ Running         FRON\f_roz                                              0:00:20 DDE Server Window                                                       
+PowerToys.PowerOCR.exe       20620 Console                    1    14 620 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe            6412 Console                    1   119 192 КБ Unknown         FRON\f_roz                                              0:00:02 Н/Д                                                                     
+TextInputHost.exe             2140 Console                    1   130 952 КБ Running         FRON\f_roz                                              0:00:03 Интерфейс ввода Windows                                                 
+icacls.exe                   21364 Console                    1     1 860 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+WindowsPackageManagerServ    18596 Console                    1    34 392 КБ Running         FRON\f_roz                                              0:00:01 WingetMessageOnlyWindow                                                 
+svchost.exe                  20224 Console                    1    27 624 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+asus_framework.exe           21532 Console                    1     9 944 КБ Running         FRON\f_roz                                              0:00:00 Temp Window                                                             
+asus_framework.exe           21560 Console                    1    10 716 КБ Running         Н/Д                                                     0:00:00 OleMainThreadWndName                                                    
+AsusOSD.exe                  22324 Console                    1    17 536 КБ Running         FRON\f_roz                                              0:00:00 ATKOSD2                                                                 
+SecurityHealthSystray.exe    22468 Console                    1    13 244 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+SecurityHealthService.exe    22452 Services                   0    23 972 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+browser.exe                   4136 Console                    1   291 716 КБ Running         FRON\f_roz                                              0:00:54 Батник для логирования и коммита статистики - Claude, группа Вкладки окн
+browser.exe                   4712 Console                    1     9 244 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Rave.exe                     21844 Console                    1   133 808 КБ Running         FRON\f_roz                                              0:00:07 Н/Д                                                                     
+browser.exe                  22408 Console                    1   507 996 КБ Running         FRON\f_roz                                              0:00:25 Н/Д                                                                     
+browser.exe                   3136 Console                    1    59 604 КБ Running         FRON\f_roz                                              0:00:12 OleMainThreadWndName                                                    
+browser.exe                   3112 Console                    1    27 188 КБ Unknown         FRON\f_roz                                              0:00:02 Н/Д                                                                     
+browser.exe                   3852 Console                    1    55 160 КБ Unknown         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+browser.exe                  14072 Console                    1    51 456 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+browser.exe                   1956 Console                    1    63 584 КБ Unknown         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+browser.exe                  22696 Console                    1   143 964 КБ Unknown         FRON\f_roz                                              0:00:04 Н/Д                                                                     
+browser.exe                  22760 Console                    1    24 636 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+browser.exe                  22772 Console                    1   231 092 КБ Unknown         FRON\f_roz                                              0:00:16 Н/Д                                                                     
+Rave.exe                     22860 Console                    1    39 228 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Rave.exe                     23264 Console                    1    85 568 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+Rave.exe                     23380 Console                    1    59 308 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+Rave.exe                     15928 Console                    1    91 440 КБ Unknown         FRON\f_roz                                              0:01:00 Н/Д                                                                     
+Rave.exe                     16264 Console                    1    82 964 КБ Unknown         FRON\f_roz                                              0:00:13 Н/Д                                                                     
+browser.exe                  23848 Console                    1    53 288 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Rave.exe                     24040 Console                    1    80 336 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Rave.exe                     24472 Console                    1    92 768 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Rave.exe                     23812 Console                    1    98 244 КБ Unknown         FRON\f_roz                                              0:00:02 Н/Д                                                                     
+Rave.exe                     23796 Console                    1    98 428 КБ Unknown         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+Rave.exe                     24416 Console                    1    94 404 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Rave.exe                     21744 Console                    1    93 484 КБ Unknown         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+browser.exe                  24728 Console                    1   110 944 КБ Unknown         FRON\f_roz                                              0:00:05 Н/Д                                                                     
+browser.exe                  24936 Console                    1    61 404 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+browser.exe                  25072 Console                    1    74 072 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+CurseForge.exe               18264 Console                    1   109 848 КБ Running         FRON\f_roz                                              0:00:08 Н/Д                                                                     
+CurseForge.exe               24580 Console                    1    96 360 КБ Running         FRON\f_roz                                              0:01:11 Н/Д                                                                     
+CurseForge.exe                7448 Console                    1    61 176 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+CurseForge.exe               23192 Console                    1   179 148 КБ Unknown         FRON\f_roz                                              0:00:16 Н/Д                                                                     
+CurseForge.exe               12408 Console                    1    97 620 КБ Not Responding  FRON\f_roz                                              0:01:29 OleMainThreadWndName                                                    
+Curse.Agent.Host.exe          4196 Console                    1    88 036 КБ Unknown         FRON\f_roz                                              0:00:11 Н/Д                                                                     
+conhost.exe                  25208 Console                    1     7 320 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+CurseForge.exe               22876 Console                    1    85 004 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+CurseForge.exe               25296 Console                    1    85 152 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+MSPCManager.exe              26128 Console                    1   325 848 КБ Running         FRON\f_roz                                              0:14:05 Hidden Window                                                           
+QuickLook.exe                26012 Console                    1    74 092 КБ Running         FRON\f_roz                                              0:00:01 .NET-BroadcastEventWindow.4.0.0.0.1bf583.0                              
+RuntimeBroker.exe            22448 Console                    1    14 380 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           26492 Console                    1   102 160 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+msedgewebview2.exe           25372 Console                    1    11 676 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           26092 Console                    1    50 956 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           26112 Console                    1    37 604 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+msedgewebview2.exe           15284 Console                    1    21 168 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           26684 Console                    1    56 436 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+TabTip.exe                   27128 Console                    1    62 368 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+ctfmon.exe                   27144 Console                    1    19 072 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+ChatGPT.exe                  27520 Console                    1   121 596 КБ Running         FRON\f_roz                                              0:00:51 Н/Д                                                                     
+ChatGPT.exe                  26896 Console                    1    38 588 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+ChatGPT.exe                  27620 Console                    1    73 600 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+ChatGPT.exe                  17328 Console                    1    60 188 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+ms-teams.exe                 27748 Console                    1    28 612 КБ Running         FRON\f_roz                                              0:00:04 Н/Д                                                                     
+RuntimeBroker.exe            28036 Console                    1    11 780 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           28140 Console                    1   123 516 КБ Running         FRON\f_roz                                              0:00:03 Н/Д                                                                     
+msedgewebview2.exe           28164 Console                    1    11 676 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           28336 Console                    1    68 724 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           28348 Console                    1    42 272 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+msedgewebview2.exe           28392 Console                    1    22 224 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+msedgewebview2.exe           28544 Console                    1   228 724 КБ Unknown         FRON\f_roz                                              0:00:22 Н/Д                                                                     
+GaomonTablet.exe             28280 Console                    1    28 416 КБ Running         FRON\f_roz                                              0:00:03 GaomonTablet                                                            
+TabletServer.exe              7280 Console                    1    20 568 КБ Running         FRON\f_roz                                              0:00:06 Н/Д                                                                     
+TabletDriver.exe              2264 Console                    1    12 852 КБ Running         FRON\f_roz                                              0:00:07 Н/Д                                                                     
+MiniBin.exe                  14348 Console                    1    11 188 КБ Running         FRON\f_roz                                              0:00:22 MiniBin                                                                 
+ChatGPT.exe                  28740 Console                    1    86 796 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+RuntimeBroker.exe            29292 Console                    1    25 632 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+ms-teams.exe                 29524 Console                    1    31 064 КБ Running         FRON\f_roz                                              0:00:05 Rtc Video PnP Listener                                                  
+jusched.exe                  28940 Console                    1     9 704 КБ Not Responding  FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+msedgewebview2.exe           14428 Console                    1    25 652 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+RvRvpnGui.exe                12208 Console                    1    38 292 КБ Running         FRON\f_roz                                              0:00:14 Radmin VPN                                                              
+svchost.exe                  18728 Services                   0    15 496 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AdobeNotificationClient.e     7396 Console                    1     4 156 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+RuntimeBroker.exe            20164 Console                    1    19 604 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                  20472 Services                   0     7 376 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+RuntimeBroker.exe            24356 Console                    1    20 912 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+unsecapp.exe                 20032 Services                   0    10 712 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+AsusSoftwareManagerAgent.    17048 Console                    1    46 688 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+svchost.exe                  13732 Console                    1    14 696 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                  16616 Services                   0     9 636 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                  11936 Services                   0    10 188 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                  25700 Services                   0    22 400 КБ Unknown         Н/Д                                                     0:00:01 Н/Д                                                                     
+svchost.exe                  23208 Services                   0    13 028 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+browser.exe                  21952 Console                    1    20 980 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+ApplicationFrameHost.exe     27284 Console                    1    47 388 КБ Running         FRON\f_roz                                              0:00:00 Unigram                                                                 
+SystemSettings.exe           27108 Console                    1     3 224 КБ Running         FRON\f_roz                                              0:00:06 Настройки                                                               
+svchost.exe                  29272 Services                   0     9 152 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+svchost.exe                   5448 Console                    1    14 332 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+UserOOBEBroker.exe           14664 Console                    1    11 516 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                   3520 Services                   0    16 284 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+winws.exe                     7784 Console                    1     9 384 КБ Running         FRON\f_roz                                              0:00:19 zapret: general (ALT6)                                                  
+conhost.exe                  14828 Console                    1     9 836 КБ Unknown         FRON\f_roz                                              0:00:04 Н/Д                                                                     
+browser.exe                  29204 Console                    1   301 204 КБ Unknown         FRON\f_roz                                              0:01:38 Н/Д                                                                     
+AppActions.exe               20360 Console                    1    34 532 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                   1960 Services                   0    12 868 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+audiodg.exe                  18804 Services                   0    23 072 КБ Unknown         Н/Д                                                     0:01:19 Н/Д                                                                     
+Telegram.exe                 19548 Console                    1   312 736 КБ Running         FRON\f_roz                                              0:00:32 Unigram                                                                 
+RuntimeBroker.exe             3184 Console                    1    29 892 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+Telegram.Stub.exe            27188 Console                    1    36 740 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+mpv.exe                      16148 Console                    1   221 324 КБ Running         FRON\f_roz                                              0:10:17 StrangerThingsS03x08.mkv - mpv                                          
+XboxPcAppFT.exe              15540 Console                    1    48 536 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                   5540 Services                   0    17 552 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+browser.exe                  11140 Console                    1   150 544 КБ Unknown         FRON\f_roz                                              0:00:22 Н/Д                                                                     
+browser.exe                  24244 Console                    1   160 772 КБ Unknown         FRON\f_roz                                              0:00:16 Н/Д                                                                     
+mpv.exe                       2208 Console                    1    59 144 КБ Unknown         FRON\f_roz                                              0:14:54 Н/Д                                                                     
+Outline.exe                  15952 Console                    1    95 536 КБ Running         FRON\f_roz                                              0:00:03 Outline                                                                 
+Outline.exe                  21812 Console                    1    27 356 КБ Running         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Outline.exe                  18960 Console                    1    80 716 КБ Running         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+Outline.exe                   3664 Console                    1    40 044 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+Outline.exe                   5720 Console                    1    85 048 КБ Unknown         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+smartdnsblock.exe            28880 Services                   0     6 540 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+conhost.exe                   8084 Services                   0    11 536 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+cmd.exe                      29440 Services                   0     5 396 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+tun2socks.exe                 2220 Console                    1    18 272 КБ Unknown         FRON\f_roz                                              0:00:04 Н/Д                                                                     
+conhost.exe                   8428 Console                    1     7 616 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+svchost.exe                  20812 Services                   0     8 948 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+browser.exe                  20928 Console                    1   148 788 КБ Unknown         FRON\f_roz                                              0:00:01 Н/Д                                                                     
+browser.exe                   7816 Console                    1   161 724 КБ Unknown         FRON\f_roz                                              0:00:04 Н/Д                                                                     
+browser.exe                  10452 Console                    1    37 552 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+backgroundTaskHost.exe       11068 Console                    1    60 500 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+RuntimeBroker.exe            17976 Console                    1    31 380 КБ Running         FRON\f_roz                                              0:00:00 OleMainThreadWndName                                                    
+smartscreen.exe              10000 Console                    1    12 968 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+browser.exe                   4144 Console                    1    24 244 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+cmd.exe                      23412 Console                    1     6 712 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+conhost.exe                   7696 Console                    1    10 724 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+OpenConsole.exe              25384 Console                    1    14 884 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+WindowsTerminal.exe          13712 Console                    1   121 320 КБ Running         FRON\f_roz                                              0:00:00 C:\WINDOWS\system32\cmd.exe                                             
+WmiPrvSE.exe                  4456 Services                   0    12 564 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+TrustedInstaller.exe         28796 Services                   0     9 904 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+TiWorker.exe                 16332 Services                   0    17 100 КБ Unknown         Н/Д                                                     0:00:00 Н/Д                                                                     
+tasklist.exe                  5116 Console                    1    13 500 КБ Unknown         FRON\f_roz                                              0:00:00 Н/Д                                                                     
+ 
+[РРќР¤РћР РњРђР¦РРЇ Рћ Р”РРЎРљРђРҐ] 
+Ошибка 5: Отказано в доступе.
+ 
+Р’СЃРµ РґРёСЃРєРё: 
+"wmic" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+ 
+[РўРћРџ-20 РџР РћР¦Р•РЎРЎРћР’ РџРћ РџРђРњРЇРўР] 
+"WUDFHost.exe" "7 116 КБ" 
+"WUDFCompanionHost.exe" "3 680 КБ" 
+"WUDFCompanionHost.exe" "3 836 КБ" 
+"WUDFCompanionHost.exe" "3 684 КБ" 
+"wslservice.exe" "27 612 КБ" 
+"WmiPrvSE.exe" "12 936 КБ" 
+"WmiPrvSE.exe" "44 464 КБ" 
+"WmiPrvSE.exe" "12 564 КБ" 
+"winws.exe" "9 384 КБ" 
+"winlogon.exe" "16 304 КБ" 
+"wininit.exe" "8 376 КБ" 
+"WindowsTerminal.exe" "121 060 КБ" 
+"WindowsPackageManagerServer.exe" "34 392 КБ" 
+"WidgetService.exe" "24 040 КБ" 
+"Widgets.exe" "47 200 КБ" 
+"UserOOBEBroker.exe" "11 516 КБ" 
+"unsecapp.exe" "10 712 КБ" 
+"tun2socks.exe" "18 332 КБ" 
+"TrustedInstaller.exe" "9 904 КБ" 
+"TiWorker.exe" "17 100 КБ" 
+"TextInputHost.exe" "130 928 КБ" 
+"Telegram.Stub.exe" "36 712 КБ" 
+"Telegram.exe" "313 192 КБ" 
+"tasklist.exe" "13 500 КБ" 
+"taskhostw.exe" "13 472 КБ" 
+"TabTip.exe" "62 368 КБ" 
+"TabletServer.exe" "20 568 КБ" 
+"TabletDriver.exe" "12 820 КБ" 
+"SystemSettings.exe" "3 224 КБ" 
+"System" "168 КБ" 
+"System Idle Process" "8 КБ" 
+"svchost.exe" "15 788 КБ" 
+"svchost.exe" "10 332 КБ" 
+"svchost.exe" "14 236 КБ" 
+"svchost.exe" "39 252 КБ" 
+"svchost.exe" "12 752 КБ" 
+"svchost.exe" "9 892 КБ" 
+"svchost.exe" "25 728 КБ" 
+"svchost.exe" "7 196 КБ" 
+"svchost.exe" "34 468 КБ" 
+"svchost.exe" "10 508 КБ" 
+"svchost.exe" "9 152 КБ" 
+"svchost.exe" "65 696 КБ" 
+"svchost.exe" "22 832 КБ" 
+"svchost.exe" "12 724 КБ" 
+"svchost.exe" "11 896 КБ" 
+"svchost.exe" "8 668 КБ" 
+"svchost.exe" "10 136 КБ" 
+"svchost.exe" "9 284 КБ" 
+"svchost.exe" "17 532 КБ" 
+"svchost.exe" "16 576 КБ" 
+"svchost.exe" "14 328 КБ" 
+"svchost.exe" "27 364 КБ" 
+"svchost.exe" "8 544 КБ" 
+"svchost.exe" "31 900 КБ" 
+"svchost.exe" "22 764 КБ" 
+"svchost.exe" "27 692 КБ" 
+"svchost.exe" "31 800 КБ" 
+"svchost.exe" "24 920 КБ" 
+"svchost.exe" "61 644 КБ" 
+"svchost.exe" "9 452 КБ" 
+"svchost.exe" "11 044 КБ" 
+"svchost.exe" "10 052 КБ" 
+"svchost.exe" "7 424 КБ" 
+"svchost.exe" "165 964 КБ" 
+"svchost.exe" "11 572 КБ" 
+"svchost.exe" "18 976 КБ" 
+"svchost.exe" "7 472 КБ" 
+"svchost.exe" "28 248 КБ" 
+"svchost.exe" "14 084 КБ" 
+"svchost.exe" "8 876 КБ" 
+"svchost.exe" "16 284 КБ" 
+"svchost.exe" "18 416 КБ" 
+"svchost.exe" "13 036 КБ" 
+"svchost.exe" "9 360 КБ" 
+"svchost.exe" "22 076 КБ" 
+"svchost.exe" "9 148 КБ" 
+"svchost.exe" "21 632 КБ" 
+"svchost.exe" "7 304 КБ" 
+"svchost.exe" "11 264 КБ" 
+"svchost.exe" "10 876 КБ" 
+"svchost.exe" "13 236 КБ" 
+"svchost.exe" "7 820 КБ" 
+"svchost.exe" "17 500 КБ" 
+"svchost.exe" "9 780 КБ" 
+"svchost.exe" "22 408 КБ" 
+"svchost.exe" "15 176 КБ" 
+"svchost.exe" "13 716 КБ" 
+"svchost.exe" "11 424 КБ" 
+"svchost.exe" "12 988 КБ" 
+"svchost.exe" "10 536 КБ" 
+"svchost.exe" "6 580 КБ" 
+"svchost.exe" "8 944 КБ" 
+"svchost.exe" "12 236 КБ" 
+"svchost.exe" "6 728 КБ" 
+"svchost.exe" "7 376 КБ" 
+"svchost.exe" "27 624 КБ" 
+"svchost.exe" "12 868 КБ" 
+"svchost.exe" "20 324 КБ" 
+"svchost.exe" "7 412 КБ" 
+"svchost.exe" "13 628 КБ" 
+"svchost.exe" "15 496 КБ" 
+"svchost.exe" "20 184 КБ" 
+"svchost.exe" "40 908 КБ" 
+"svchost.exe" "21 768 КБ" 
+"svchost.exe" "9 616 КБ" 
+"svchost.exe" "24 572 КБ" 
+"svchost.exe" "16 636 КБ" 
+"svchost.exe" "24 064 КБ" 
+"svchost.exe" "44 132 КБ" 
+"svchost.exe" "30 708 КБ" 
+"svchost.exe" "16 696 КБ" 
+"svchost.exe" "14 680 КБ" 
+"svchost.exe" "28 884 КБ" 
+"svchost.exe" "11 272 КБ" 
+"svchost.exe" "12 904 КБ" 
+"svchost.exe" "5 684 КБ" 
+"svchost.exe" "23 724 КБ" 
+"svchost.exe" "10 188 КБ" 
+"svchost.exe" "9 964 КБ" 
+"svchost.exe" "29 540 КБ" 
+"svchost.exe" "23 768 КБ" 
+"svchost.exe" "11 608 КБ" 
+"StartMenuExperienceHost.exe" "155 088 КБ" 
+"spoolsv.exe" "21 112 КБ" 
+"smss.exe" "1 500 КБ" 
+"smartscreen.exe" "12 952 КБ" 
+"smartdnsblock.exe" "6 508 КБ" 
+"sihost.exe" "52 824 КБ" 
+"ShellHost.exe" "47 996 КБ" 
+"ShellExperienceHost.exe" "70 184 КБ" 
+"services.exe" "18 352 КБ" 
+"service_update.exe" "12 088 КБ" 
+"service_update.exe" "19 828 КБ" 
+"SecurityHealthSystray.exe" "13 244 КБ" 
+"SecurityHealthService.exe" "23 964 КБ" 
+"Secure System" "67 544 КБ" 
+"SearchIndexer.exe" "28 636 КБ" 
+"SearchHost.exe" "132 936 КБ" 
+"RvRvpnGui.exe" "38 292 КБ" 
+"RvControlSvc.exe" "21 492 КБ" 
+"RuntimeBroker.exe" "29 868 КБ" 
+"RuntimeBroker.exe" "25 608 КБ" 
+"RuntimeBroker.exe" "11 756 КБ" 
+"RuntimeBroker.exe" "20 912 КБ" 
+"RuntimeBroker.exe" "14 364 КБ" 
+"RuntimeBroker.exe" "19 600 КБ" 
+"RuntimeBroker.exe" "46 456 КБ" 
+"RuntimeBroker.exe" "31 380 КБ" 
+"RuntimeBroker.exe" "64 752 КБ" 
+"RtkBtManServ.exe" "9 256 КБ" 
+"RtkAudUService64.exe" "15 832 КБ" 
+"RtkAudUService64.exe" "17 532 КБ" 
+"RtkAudUService64.exe" "18 172 КБ" 
+"ROGLiveService.exe" "24 620 КБ" 
+"Registry" "36 752 КБ" 
+"Rave.exe" "92 772 КБ" 
+"Rave.exe" "94 404 КБ" 
+"Rave.exe" "80 336 КБ" 
+"Rave.exe" "98 356 КБ" 
+"Rave.exe" "98 640 КБ" 
+"Rave.exe" "59 308 КБ" 
+"Rave.exe" "85 552 КБ" 
+"Rave.exe" "39 228 КБ" 
+"Rave.exe" "133 836 КБ" 
+"Rave.exe" "93 484 КБ" 
+"Rave.exe" "82 936 КБ" 
+"Rave.exe" "91 440 КБ" 
+"QuickLook.exe" "74 060 КБ" 
+"PowerToys.PowerOCR.exe" "14 600 КБ" 
+"PowerToys.PowerLauncher.exe" "36 244 КБ" 
+"PowerToys.Peek.UI.exe" "13 476 КБ" 
+"PowerToys.FancyZones.exe" "6 620 КБ" 
+"PowerToys.exe" "12 164 КБ" 
+"PowerToys.CropAndLock.exe" "2 884 КБ" 
+"PowerToys.ColorPickerUI.exe" "22 308 КБ" 
+"PowerToys.Awake.exe" "18 488 КБ" 
+"PowerToys.AlwaysOnTop.exe" "4 976 КБ" 
+"PhoneExperienceHost.exe" "169 256 КБ" 
+"OutlineService.exe" "28 308 КБ" 
+"Outline.exe" "85 016 КБ" 
+"Outline.exe" "40 012 КБ" 
+"Outline.exe" "27 324 КБ" 
+"Outline.exe" "80 716 КБ" 
+"Outline.exe" "95 540 КБ" 
+"OpenConsole.exe" "14 832 КБ" 
+"OfficeClickToRun.exe" "50 184 КБ" 
+"NVDisplay.Container.exe" "27 616 КБ" 
+"NVDisplay.Container.exe" "28 052 КБ" 
+"nvcontainer.exe" "21 068 КБ" 
+"nvcontainer.exe" "35 764 КБ" 
+"nvcontainer.exe" "56 428 КБ" 
+"NisSrv.exe" "13 956 КБ" 
+"NgcIso.exe" "4 092 КБ" 
+"MSPCManager.exe" "327 508 КБ" 
+"MsMpEng.exe" "299 376 КБ" 
+"msedgewebview2.exe" "22 924 КБ" 
+"msedgewebview2.exe" "119 180 КБ" 
+"msedgewebview2.exe" "228 712 КБ" 
+"msedgewebview2.exe" "22 220 КБ" 
+"msedgewebview2.exe" "42 128 КБ" 
+"msedgewebview2.exe" "68 672 КБ" 
+"msedgewebview2.exe" "11 672 КБ" 
+"msedgewebview2.exe" "123 488 КБ" 
+"msedgewebview2.exe" "56 416 КБ" 
+"msedgewebview2.exe" "102 124 КБ" 
+"msedgewebview2.exe" "37 580 КБ" 
+"msedgewebview2.exe" "50 956 КБ" 
+"msedgewebview2.exe" "11 656 КБ" 
+"msedgewebview2.exe" "44 112 КБ" 
+"msedgewebview2.exe" "80 396 КБ" 
+"msedgewebview2.exe" "11 432 КБ" 
+"msedgewebview2.exe" "21 140 КБ" 
+"msedgewebview2.exe" "25 648 КБ" 
+"msedgewebview2.exe" "116 408 КБ" 
+"ms-teams.exe" "31 044 КБ" 
+"ms-teams.exe" "28 528 КБ" 
+"mpv.exe" "59 144 КБ" 
+"mpv.exe" "221 328 КБ" 
+"MpDefenderCoreService.exe" "22 596 КБ" 
+"MiniBin.exe" "11 156 КБ" 
+"Microsoft.CmdPal.UI.exe" "111 560 КБ" 
+"lsass.exe" "32 968 КБ" 
+"LsaIso.exe" "4 224 КБ" 
+"LockApp.exe" "79 396 КБ" 
+"LightingService.exe" "36 312 КБ" 
+"jusched.exe" "9 672 КБ" 
+"icacls.exe" "1 860 КБ" 
+"HPPrintScanDoctorService.exe" "11 468 КБ" 
+"GaomonTablet.exe" "28 416 КБ" 
+"gamingservicesnet.exe" "10 484 КБ" 
+"gamingservices.exe" "46 136 КБ" 
+"GameSDK.exe" "9 024 КБ" 
+"fontdrvhost.exe" "4 644 КБ" 
+"fontdrvhost.exe" "7 624 КБ" 
+"find.exe" "3 900 КБ" 
+"explorer.exe" "327 824 КБ" 
+"dwm.exe" "125 176 КБ" 
+"dllhost.exe" "19 536 КБ" 
+"dasHost.exe" "13 924 КБ" 
+"CurseForge.exe" "61 176 КБ" 
+"CurseForge.exe" "85 152 КБ" 
+"CurseForge.exe" "96 344 КБ" 
+"CurseForge.exe" "179 144 КБ" 
+"CurseForge.exe" "85 004 КБ" 
+"CurseForge.exe" "109 852 КБ" 
+"CurseForge.exe" "97 672 КБ" 
+"Curse.Agent.Host.exe" "88 036 КБ" 
+"ctfmon.exe" "19 056 КБ" 
+"ctfmon.exe" "32 440 КБ" 
+"csrss.exe" "8 844 КБ" 
+"csrss.exe" "6 600 КБ" 
+"CrossDeviceResume.exe" "53 416 КБ" 
+"conhost.exe" "7 272 КБ" 
+"conhost.exe" "7 204 КБ" 
+"conhost.exe" "7 596 КБ" 
+"conhost.exe" "11 536 КБ" 
+"conhost.exe" "10 724 КБ" 
+"conhost.exe" "7 320 КБ" 
+"conhost.exe" "9 836 КБ" 
+"cmd.exe" "5 364 КБ" 
+"cmd.exe" "6 756 КБ" 
+"ChatGPT.exe" "86 764 КБ" 
+"ChatGPT.exe" "73 600 КБ" 
+"ChatGPT.exe" "121 600 КБ" 
+"ChatGPT.exe" "38 568 КБ" 
+"ChatGPT.exe" "60 160 КБ" 
+"browser.exe" "161 708 КБ" 
+"browser.exe" "9 244 КБ" 
+"browser.exe" "24 208 КБ" 
+"browser.exe" "291 708 КБ" 
+"browser.exe" "55 160 КБ" 
+"browser.exe" "59 532 КБ" 
+"browser.exe" "26 828 КБ" 
+"browser.exe" "301 240 КБ" 
+"browser.exe" "74 072 КБ" 
+"browser.exe" "61 404 КБ" 
+"browser.exe" "110 944 КБ" 
+"browser.exe" "159 576 КБ" 
+"browser.exe" "53 288 КБ" 
+"browser.exe" "231 176 КБ" 
+"browser.exe" "24 636 КБ" 
+"browser.exe" "143 964 КБ" 
+"browser.exe" "487 752 КБ" 
+"browser.exe" "20 980 КБ" 
+"browser.exe" "148 772 КБ" 
+"browser.exe" "63 584 КБ" 
+"browser.exe" "51 456 КБ" 
+"browser.exe" "150 552 КБ" 
+"browser.exe" "37 536 КБ" 
+"backgroundTaskHost.exe" "60 500 КБ" 
+"audiodg.exe" "23 068 КБ" 
+"atiesrxx.exe" "14 152 КБ" 
+"atieclxx.exe" "20 456 КБ" 
+"AsusSystemDiagnosis.exe" "12 328 КБ" 
+"AsusSystemAnalysis.exe" "17 644 КБ" 
+"AsusSwitch.exe" "9 996 КБ" 
+"AsusSoftwareManagerAgent.exe" "46 676 КБ" 
+"AsusSoftwareManager.exe" "21 264 КБ" 
+"AsusPTPService.exe" "7 008 КБ" 
+"AsusOSD.exe" "17 536 КБ" 
+"AsusOptimizationStartupTask.exe" "22 180 КБ" 
+"AsusOptimization.exe" "13 284 КБ" 
+"AsusHotkey.exe" "8 636 КБ" 
+"AsusCertService.exe" "8 376 КБ" 
+"AsusAppService.exe" "29 140 КБ" 
+"asus_framework.exe" "10 200 КБ" 
+"asus_framework.exe" "9 792 КБ" 
+"asus_framework.exe" "20 332 КБ" 
+"ArmourySocketServer.exe" "2 024 КБ" 
+"ArmouryHtmlDebugServer.exe" "1 192 КБ" 
+"ArmouryCrateControlInterface.exe" "12 196 КБ" 
+"ArmouryCrate.UserSessionHelper.exe" "92 884 КБ" 
+"ArmouryCrate.Service.exe" "60 972 КБ" 
+"ApplicationFrameHost.exe" "47 388 КБ" 
+"AppActions.exe" "34 532 КБ" 
+"AmdPpkgSvc.exe" "6 004 КБ" 
+"amdpmfserviceuser.exe" "6 412 КБ" 
+"amdpmfservice.exe" "7 992 КБ" 
+"amdfendrsr.exe" "9 372 КБ" 
+"AMDADLXServ.exe" "17 400 КБ" 
+"AggregatorHost.exe" "12 180 КБ" 
+"AdobeNotificationClient.exe" "4 156 КБ" 
+"AcPowerNotification.exe" "13 280 КБ" 
+"AacAmbientLighting.exe" "49 588 КБ" 
+"Имя образа" "Память" 
+ 
+[РЎР•РўР•Р’Р«Р• РРќРўР•Р Р¤Р•Р™РЎР«] 
+
+Ќ бва®©Є  Їа®в®Є®«  IP ¤«п Windows
+
+   €¬п Є®¬ЇмовҐа   . . . . . . . . . : Fron
+   Ћб­®ў­®© DNS-бгддЁЄб  . . . . . . : 
+   ’ЁЇ г§« . . . . . . . . . . . . . : Ћ¤­®а ­Ј®ўл©
+   IP-¬ аиагвЁ§ жЁп ўЄ«озҐ­  . . . . : ЌҐв
+   WINS-Їа®ЄбЁ ўЄ«озҐ­ . . . . . . . : ЌҐв
+
+Ђ¤ ЇвҐа Ethernet Radmin VPN:
+
+   DNS-бгддЁЄб Ї®¤Є«озҐ­Ёп . . . . . : 
+   ЋЇЁб ­ЁҐ. . . . . . . . . . . . . : Famatech Radmin VPN Ethernet Adapter
+   ”Ё§ЁзҐбЄЁ©  ¤аҐб. . . . . . . . . : 02-50-47-BE-2F-63
+   DHCP ўЄ«озҐ­. . . . . . . . . . . : ЌҐв
+   Ђўв®­ бва®©Є  ўЄ«озҐ­ . . . . . . : „ 
+   IPv6- ¤аҐб. . . . . . . . . . . . : fdfd::1a41:1839(Ћб­®ў­®©) 
+   ‹®Є «м­л© IPv6- ¤аҐб Є ­ «  . . . : fe80::d6f4:ed1d:4b45:be7a%4(Ћб­®ў­®©) 
+   IPv4- ¤аҐб. . . . . . . . . . . . : 26.65.24.57(Ћб­®ў­®©) 
+   Њ бЄ  Ї®¤бҐвЁ . . . . . . . . . . : 255.0.0.0
+   Ћб­®ў­®© и«о§. . . . . . . . . : 26.0.0.1
+   IAID DHCPv6 . . . . . . . . . . . : 872566855
+   DUID Є«ЁҐ­в  DHCPv6 . . . . . . . : 00-01-00-01-30-39-1D-A7-BC-FC-E7-C1-5E-5D
+   NetBios зҐаҐ§ TCP/IP. . . . . . . . : ‚Є«озҐ­
+
+Ђ¤ ЇвҐа Ethernet Ethernet:
+
+   ‘®бв®п­ЁҐ баҐ¤л. . . . . . . . : ‘аҐ¤  ЇҐаҐ¤ зЁ ­Ґ¤®бвгЇ­ .
+   DNS-бгддЁЄб Ї®¤Є«озҐ­Ёп . . . . . : 
+   ЋЇЁб ­ЁҐ. . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   ”Ё§ЁзҐбЄЁ©  ¤аҐб. . . . . . . . . : BC-FC-E7-C1-5E-5D
+   DHCP ўЄ«озҐ­. . . . . . . . . . . : „ 
+   Ђўв®­ бва®©Є  ўЄ«озҐ­ . . . . . . : „ 
+
+Ђ¤ ЇвҐа ЎҐбЇа®ў®¤­®© «®Є «м­®© бҐвЁ Џ®¤Є«озҐ­ЁҐ Ї® «®Є «м­®© бҐвЁ* 9:
+
+   ‘®бв®п­ЁҐ баҐ¤л. . . . . . . . : ‘аҐ¤  ЇҐаҐ¤ зЁ ­Ґ¤®бвгЇ­ .
+   DNS-бгддЁЄб Ї®¤Є«озҐ­Ёп . . . . . : 
+   ЋЇЁб ­ЁҐ. . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   ”Ё§ЁзҐбЄЁ©  ¤аҐб. . . . . . . . . : 5A-02-05-F4-2B-BE
+   DHCP ўЄ«озҐ­. . . . . . . . . . . : „ 
+   Ђўв®­ бва®©Є  ўЄ«озҐ­ . . . . . . : „ 
+
+Ђ¤ ЇвҐа ЎҐбЇа®ў®¤­®© «®Є «м­®© бҐвЁ Џ®¤Є«озҐ­ЁҐ Ї® «®Є «м­®© бҐвЁ* 10:
+
+   ‘®бв®п­ЁҐ баҐ¤л. . . . . . . . : ‘аҐ¤  ЇҐаҐ¤ зЁ ­Ґ¤®бвгЇ­ .
+   DNS-бгддЁЄб Ї®¤Є«озҐ­Ёп . . . . . : 
+   ЋЇЁб ­ЁҐ. . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   ”Ё§ЁзҐбЄЁ©  ¤аҐб. . . . . . . . . : 5E-02-05-F4-2B-BE
+   DHCP ўЄ«озҐ­. . . . . . . . . . . : ЌҐв
+   Ђўв®­ бва®©Є  ўЄ«озҐ­ . . . . . . : „ 
+
+Ђ¤ ЇвҐа Ethernet outline-tap0:
+
+   DNS-бгддЁЄб Ї®¤Є«озҐ­Ёп . . . . . : 
+   ЋЇЁб ­ЁҐ. . . . . . . . . . . . . : TAP-Windows Adapter V9
+   ”Ё§ЁзҐбЄЁ©  ¤аҐб. . . . . . . . . : 00-FF-68-33-FA-35
+   DHCP ўЄ«озҐ­. . . . . . . . . . . : ЌҐв
+   Ђўв®­ бва®©Є  ўЄ«озҐ­ . . . . . . : „ 
+   ‹®Є «м­л© IPv6- ¤аҐб Є ­ «  . . . : fe80::da47:43a7:2671:5ed1%11(Ћб­®ў­®©) 
+   IPv4- ¤аҐб. . . . . . . . . . . . : 10.0.85.2(Ћб­®ў­®©) 
+   Њ бЄ  Ї®¤бҐвЁ . . . . . . . . . . : 255.255.255.255
+   Ћб­®ў­®© и«о§. . . . . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . : 788594536
+   DUID Є«ЁҐ­в  DHCPv6 . . . . . . . : 00-01-00-01-30-39-1D-A7-BC-FC-E7-C1-5E-5D
+   DNS-бҐаўҐал. . . . . . . . . . . : 1.1.1.1
+                                       1.0.0.1
+   NetBios зҐаҐ§ TCP/IP. . . . . . . . : ‚Є«озҐ­
+
+Ђ¤ ЇвҐа ЎҐбЇа®ў®¤­®© «®Є «м­®© бҐвЁ ЃҐбЇа®ў®¤­ п бҐвм:
+
+   DNS-бгддЁЄб Ї®¤Є«озҐ­Ёп . . . . . : 
+   ЋЇЁб ­ЁҐ. . . . . . . . . . . . . : Realtek 8852CE WiFi 6E PCI-E NIC
+   ”Ё§ЁзҐбЄЁ©  ¤аҐб. . . . . . . . . : 58-02-05-F4-2B-BE
+   DHCP ўЄ«озҐ­. . . . . . . . . . . : „ 
+   Ђўв®­ бва®©Є  ўЄ«озҐ­ . . . . . . : „ 
+   ‹®Є «м­л© IPv6- ¤аҐб Є ­ «  . . . : fe80::8312:fc2c:eca7:f7f9%15(Ћб­®ў­®©) 
+   IPv4- ¤аҐб. . . . . . . . . . . . : 192.168.3.28(Ћб­®ў­®©) 
+   Њ бЄ  Ї®¤бҐвЁ . . . . . . . . . . : 255.255.255.0
+   ЂаҐ­¤  Ї®«гзҐ­ . . . . . . . . . . : 25 ­®пЎап 2025 Ј. 15:33:44
+   ‘а®Є  аҐ­¤л ЁбвҐЄ Ґв. . . . . . . . . . : 26 ­®пЎап 2025 Ј. 15:33:43
+   Ћб­®ў­®© и«о§. . . . . . . . . : 192.168.3.1
+   DHCP-бҐаўҐа. . . . . . . . . . . : 192.168.3.1
+   IAID DHCPv6 . . . . . . . . . . . : 223871493
+   DUID Є«ЁҐ­в  DHCPv6 . . . . . . . : 00-01-00-01-30-39-1D-A7-BC-FC-E7-C1-5E-5D
+   DNS-бҐаўҐал. . . . . . . . . . . : 192.168.3.1
+   NetBios зҐаҐ§ TCP/IP. . . . . . . . : ‚Є«озҐ­
+
+’г­­Ґ«м­л©  ¤ ЇвҐа Teredo Tunneling Pseudo-Interface:
+
+   DNS-бгддЁЄб Ї®¤Є«озҐ­Ёп . . . . . : 
+   ЋЇЁб ­ЁҐ. . . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   ”Ё§ЁзҐбЄЁ©  ¤аҐб. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP ўЄ«озҐ­. . . . . . . . . . . : ЌҐв
+   Ђўв®­ бва®©Є  ўЄ«озҐ­ . . . . . . : „ 
+   IPv6- ¤аҐб. . . . . . . . . . . . : 2001:0:14c9:d804:38b2:6cbd:a11b:85fb(Ћб­®ў­®©) 
+   ‹®Є «м­л© IPv6- ¤аҐб Є ­ «  . . . : fe80::38b2:6cbd:a11b:85fb%16(Ћб­®ў­®©) 
+   Ћб­®ў­®© и«о§. . . . . . . . . : 
+   IAID DHCPv6 . . . . . . . . . . . : 268435456
+   DUID Є«ЁҐ­в  DHCPv6 . . . . . . . : 00-01-00-01-30-39-1D-A7-BC-FC-E7-C1-5E-5D
+   NetBios зҐаҐ§ TCP/IP. . . . . . . . : ЋвЄ«озҐ­
+ 
+[РђРљРўРР’РќР«Р• РЎР•РўР•Р’Р«Р• РџРћР”РљР›Р®Р§Р•РќРРЇ] 
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:12177          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49680          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:54326          0.0.0.0:0              LISTENING
+  TCP    10.0.85.2:139          0.0.0.0:0              LISTENING
+  TCP    10.0.85.2:49409        20.59.87.226:443       ESTABLISHED
+  TCP    10.0.85.2:49703        34.194.198.135:443     ESTABLISHED
+  TCP    10.0.85.2:49711        150.136.229.233:443    ESTABLISHED
+  TCP    10.0.85.2:54411        95.173.204.44:8886     ESTABLISHED
+  TCP    10.0.85.2:54418        77.88.44.55:443        ESTABLISHED
+  TCP    10.0.85.2:54419        5.255.255.77:443       ESTABLISHED
+  TCP    10.0.85.2:54425        213.180.193.234:443    ESTABLISHED
+  TCP    10.0.85.2:54467        213.180.193.234:443    ESTABLISHED
+  TCP    10.0.85.2:54505        213.180.193.234:443    ESTABLISHED
+  TCP    10.0.85.2:54515        140.82.112.25:443      ESTABLISHED
+  TCP    10.0.85.2:60764        213.180.193.234:443    ESTABLISHED
+  TCP    10.0.85.2:60849        142.250.102.188:5228   ESTABLISHED
+  TCP    10.0.85.2:60855        95.213.56.4:443        ESTABLISHED
+  TCP    10.0.85.2:60857        77.88.21.119:443       ESTABLISHED
+  TCP    10.0.85.2:60888        87.250.251.20:443      ESTABLISHED
+  TCP    10.0.85.2:60895        213.180.193.234:443    ESTABLISHED
+  TCP    10.0.85.2:60909        89.222.107.167:8886    ESTABLISHED
+  TCP    10.0.85.2:60915        5.255.255.242:443      ESTABLISHED
+  TCP    10.0.85.2:60916        87.250.251.20:443      ESTABLISHED
+  TCP    10.0.85.2:60937        213.180.193.234:443    ESTABLISHED
+  TCP    10.0.85.2:60959        18.97.36.6:443         ESTABLISHED
+  TCP    10.0.85.2:60961        149.154.167.41:443     ESTABLISHED
+  TCP    10.0.85.2:60967        149.154.167.51:443     ESTABLISHED
+  TCP    10.0.85.2:60973        87.240.129.140:443     ESTABLISHED
+  TCP    10.0.85.2:60977        87.240.129.133:443     ESTABLISHED
+  TCP    10.0.85.2:60979        129.80.246.81:443      ESTABLISHED
+  TCP    10.0.85.2:60999        46.17.203.154:443      ESTABLISHED
+  TCP    10.0.85.2:61001        46.17.203.154:443      ESTABLISHED
+  TCP    10.0.85.2:61007        89.222.107.166:8886    ESTABLISHED
+  TCP    10.0.85.2:61009        87.240.190.90:443      ESTABLISHED
+  TCP    10.0.85.2:61011        5.255.255.77:443       ESTABLISHED
+  TCP    10.0.85.2:61015        178.249.213.82:8886    ESTABLISHED
+  TCP    10.0.85.2:62831        87.250.250.91:443      ESTABLISHED
+  TCP    10.0.85.2:62843        77.88.21.119:443       ESTABLISHED
+  TCP    26.65.24.57:139        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1042         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1042         127.0.0.1:58641        ESTABLISHED
+  TCP    127.0.0.1:1042         127.0.0.1:58644        ESTABLISHED
+  TCP    127.0.0.1:1043         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:6850         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:6850         127.0.0.1:49691        ESTABLISHED
+  TCP    127.0.0.1:7778         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9012         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9012         127.0.0.1:49685        ESTABLISHED
+  TCP    127.0.0.1:9013         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:9014         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:13030        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:13030        127.0.0.1:49675        ESTABLISHED
+  TCP    127.0.0.1:13031        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:13032        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:22112        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:24830        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:27339        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:49674        127.0.0.1:50100        ESTABLISHED
+  TCP    127.0.0.1:49675        127.0.0.1:13030        ESTABLISHED
+  TCP    127.0.0.1:49685        127.0.0.1:9012         ESTABLISHED
+  TCP    127.0.0.1:49691        127.0.0.1:6850         ESTABLISHED
+  TCP    127.0.0.1:50100        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:50100        127.0.0.1:49674        ESTABLISHED
+  TCP    127.0.0.1:50923        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:51100        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:51734        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:51734        127.0.0.1:58885        ESTABLISHED
+  TCP    127.0.0.1:57348        0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:58641        127.0.0.1:1042         ESTABLISHED
+  TCP    127.0.0.1:58644        127.0.0.1:1042         ESTABLISHED
+  TCP    127.0.0.1:58885        127.0.0.1:51734        ESTABLISHED
+  TCP    192.168.3.28:139       0.0.0.0:0              LISTENING
+  TCP    192.168.3.28:49704     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:49712     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:52142     0.0.0.0:0              LISTENING
+  TCP    192.168.3.28:52142     198.244.203.247:17301  ESTABLISHED
+  TCP    192.168.3.28:53247     4.208.35.47:443        ESTABLISHED
+  TCP    192.168.3.28:54379     93.186.237.7:443       ESTABLISHED
+  TCP    192.168.3.28:54412     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:54424     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:54426     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:54430     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:54468     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:54506     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:54516     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:56419     142.250.107.188:5228   ESTABLISHED
+  TCP    192.168.3.28:57517     57.153.79.230:443      ESTABLISHED
+  TCP    192.168.3.28:57557     93.186.237.6:443       ESTABLISHED
+  TCP    192.168.3.28:57558     93.186.237.7:443       ESTABLISHED
+  TCP    192.168.3.28:58750     162.244.34.43:8886     ESTABLISHED
+  TCP    192.168.3.28:58751     185.162.130.27:8886    ESTABLISHED
+  TCP    192.168.3.28:58754     185.162.130.8:8886     ESTABLISHED
+  TCP    192.168.3.28:58757     185.162.130.26:8886    ESTABLISHED
+  TCP    192.168.3.28:58760     162.244.34.11:8886     ESTABLISHED
+  TCP    192.168.3.28:58763     185.162.130.221:8886   ESTABLISHED
+  TCP    192.168.3.28:58765     185.223.94.98:8886     ESTABLISHED
+  TCP    192.168.3.28:58766     162.244.34.42:8886     ESTABLISHED
+  TCP    192.168.3.28:58772     185.162.130.28:8886    ESTABLISHED
+  TCP    192.168.3.28:58774     185.162.130.222:8886   ESTABLISHED
+  TCP    192.168.3.28:58775     162.244.34.16:8886     ESTABLISHED
+  TCP    192.168.3.28:58776     162.244.34.17:8886     ESTABLISHED
+  TCP    192.168.3.28:58777     162.244.34.4:8886      ESTABLISHED
+  TCP    192.168.3.28:58780     185.162.130.21:8886    ESTABLISHED
+  TCP    192.168.3.28:58784     185.162.128.94:8886    ESTABLISHED
+  TCP    192.168.3.28:58785     185.130.107.201:8886   ESTABLISHED
+  TCP    192.168.3.28:58786     185.162.128.91:8886    ESTABLISHED
+  TCP    192.168.3.28:58812     213.180.204.179:443    ESTABLISHED
+  TCP    192.168.3.28:60765     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60846     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60850     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60856     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60858     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60889     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60897     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60910     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60917     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60918     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60938     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60960     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60964     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60968     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60974     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60978     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:60980     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:61000     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:61002     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:61008     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:61010     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:61012     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:61016     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:62645     46.17.203.154:443      ESTABLISHED
+  TCP    192.168.3.28:62833     94.228.122.4:50276     ESTABLISHED
+  TCP    192.168.3.28:62840     172.67.131.170:443     ESTABLISHED
+  TCP    192.168.3.28:62844     94.228.122.4:50276     ESTABLISHED
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:7680              [::]:0                 LISTENING
+  TCP    [::]:49664             [::]:0                 LISTENING
+  TCP    [::]:49665             [::]:0                 LISTENING
+  TCP    [::]:49666             [::]:0                 LISTENING
+  TCP    [::]:49667             [::]:0                 LISTENING
+  TCP    [::]:49668             [::]:0                 LISTENING
+  TCP    [::]:49680             [::]:0                 LISTENING
+  TCP    [::]:54327             [::]:0                 LISTENING
+ 
+[РЎРўРђРўРРЎРўРРљРђ РЎР•РўР•Р’РћР“Рћ РўР РђР¤РРљРђ] 
+‘в вЁбвЁЄ  Ё­вҐадҐ©б 
+
+                           Џ®«гзҐ­®            ЋвЇа ў«Ґ­®
+
+Ѓ ©в                      563682085       320602137
+Ћ¤­® ¤аҐб­лҐ Ї ЄҐвл          981560          745319
+Њ­®Ј® ¤аҐб­лҐ Ї ЄҐвл            645           65608
+ЋвЎа®иҐ­®                       290               0
+ЋиЁЎЄЁ                            0               1
+ЌҐЁ§ўҐбв­л© Їа®в®Є®«              0
+ 
+[Р—РђРџРЈР©Р•РќРќР«Р• РЎР›РЈР–Р‘Р«] 
+SERVICE_NAME: AdobeUpdateService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: ADPSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: ALG
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AppIDSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AppMgmt
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AppReadiness
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AppVClient
+        STATE              : 1  STOPPED 
+SERVICE_NAME: ApxSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AssignedAccessManagerSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: asus
+        STATE              : 1  STOPPED 
+SERVICE_NAME: asusm
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AsusROGLSLService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: Aura Wallpaper Service
+        STATE              : 1  STOPPED 
+SERVICE_NAME: autotimesvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AxInstSV
+        STATE              : 1  STOPPED 
+SERVICE_NAME: BDESVC
+        STATE              : 1  STOPPED 
+SERVICE_NAME: BEService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: BITS
+        STATE              : 1  STOPPED 
+SERVICE_NAME: BTAGService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: BthAvctpSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: CertPropSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: ClipSVC
+        STATE              : 1  STOPPED 
+SERVICE_NAME: cloudidsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: COMSysApp
+        STATE              : 1  STOPPED 
+SERVICE_NAME: CscService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: dcsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: debugregsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: defragsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: DeveloperToolsService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: diagsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: DialogBlockingService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: DiscordSystemHelper
+        STATE              : 1  STOPPED 
+SERVICE_NAME: DmEnrollmentSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: dmwappushservice
+        STATE              : 1  STOPPED 
+SERVICE_NAME: dot3svc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: DsmSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: EapHost
+        STATE              : 1  STOPPED 
+SERVICE_NAME: edgeupdate
+        STATE              : 1  STOPPED 
+SERVICE_NAME: edgeupdatem
+        STATE              : 1  STOPPED 
+SERVICE_NAME: EFS
+        STATE              : 1  STOPPED 
+SERVICE_NAME: embeddedmode
+        STATE              : 1  STOPPED 
+SERVICE_NAME: EntAppSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: EPMVssEaseusProvider
+        STATE              : 1  STOPPED 
+SERVICE_NAME: fdPHost
+        STATE              : 1  STOPPED 
+SERVICE_NAME: FDResPub
+        STATE              : 1  STOPPED 
+SERVICE_NAME: fhsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: FileSyncHelper
+        STATE              : 1  STOPPED 
+SERVICE_NAME: FrameServer
+        STATE              : 1  STOPPED 
+SERVICE_NAME: FrameServerMonitor
+        STATE              : 1  STOPPED 
+SERVICE_NAME: FvSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: GameInputRedistService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: GameInputSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: GoogleChromeElevationService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: GoogleUpdaterInternalService141.0.7376.0
+        STATE              : 1  STOPPED 
+SERVICE_NAME: GoogleUpdaterService141.0.7376.0
+        STATE              : 1  STOPPED 
+SERVICE_NAME: gpsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: GraphicsPerfSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: hpatchmon
+        STATE              : 1  STOPPED 
+SERVICE_NAME: icssvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: IObitUnSvr
+        STATE              : 1  STOPPED 
+SERVICE_NAME: IpxlatCfgSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: KtmRm
+        STATE              : 1  STOPPED 
+SERVICE_NAME: lltdsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: LocalKdc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: LxpSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: MapsBroker
+        STATE              : 1  STOPPED 
+SERVICE_NAME: McmSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: McpManagementService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: MicrosoftEdgeElevationService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: midisrv
+        STATE              : 1  STOPPED 
+SERVICE_NAME: MSDTC
+        STATE              : 1  STOPPED 
+SERVICE_NAME: MSiSCSI
+        STATE              : 1  STOPPED 
+SERVICE_NAME: msiserver
+        STATE              : 1  STOPPED 
+SERVICE_NAME: MsKeyboardFilter
+        STATE              : 1  STOPPED 
+SERVICE_NAME: NaturalAuthentication
+        STATE              : 1  STOPPED 
+SERVICE_NAME: NcaSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: NcdAutoSetup
+        STATE              : 1  STOPPED 
+SERVICE_NAME: Netlogon
+        STATE              : 1  STOPPED 
+SERVICE_NAME: NetSetupSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: NetTcpPortSharing
+        STATE              : 1  STOPPED 
+SERVICE_NAME: NlaSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: OneDrive Updater Service
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PCManager Service Store
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PeerDistSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: perceptionsimulation
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PerfHost
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PhoneSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: pla
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PrintDeviceConfigurationService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PrintNotify
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PrintScanBrokerService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PushToInstall
+        STATE              : 1  STOPPED 
+SERVICE_NAME: QWAVE
+        STATE              : 1  STOPPED 
+SERVICE_NAME: RasAuto
+        STATE              : 1  STOPPED 
+SERVICE_NAME: refsdedupsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: RemoteAccess
+        STATE              : 1  STOPPED 
+SERVICE_NAME: RemoteRegistry
+        STATE              : 1  STOPPED 
+SERVICE_NAME: RetailDemo
+        STATE              : 1  STOPPED 
+SERVICE_NAME: RpcLocator
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SCardSvr
+        STATE              : 1  STOPPED 
+SERVICE_NAME: ScDeviceEnum
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SCPolicySvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SDRSVC
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SEMgrSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: Sense
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SensorDataService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SensorService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SensrSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SessionEnv
+        STATE              : 1  STOPPED 
+SERVICE_NAME: shpamsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: smphost
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SmsRouter
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SNMPTrap
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SoundBoosterService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: sppsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: ssh-agent
+        STATE              : 1  STOPPED 
+SERVICE_NAME: sshd
+        STATE              : 1  STOPPED 
+SERVICE_NAME: SshdBroker
+        STATE              : 1  STOPPED 
+SERVICE_NAME: Steam Client Service
+        STATE              : 1  STOPPED 
+SERVICE_NAME: svsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: swprv
+        STATE              : 1  STOPPED 
+SERVICE_NAME: TapiSrv
+        STATE              : 1  STOPPED 
+SERVICE_NAME: TermService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: TieringEngineService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: TroubleshootingSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: tzautoupdate
+        STATE              : 1  STOPPED 
+SERVICE_NAME: UevAgentService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: UmRdpService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: upnphost
+        STATE              : 1  STOPPED 
+SERVICE_NAME: VBoxSDS
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vds
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmcompute
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmicguestinterface
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmicheartbeat
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmickvpexchange
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmicrdv
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmicshutdown
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmictimesync
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmicvmsession
+        STATE              : 1  STOPPED 
+SERVICE_NAME: vmicvss
+        STATE              : 1  STOPPED 
+SERVICE_NAME: VSInstallerElevationService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: VSS
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WaaSMedicSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WalletService
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WarpJITSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wbengine
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WbioSrvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wcncsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WebClient
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WebManagement
+        STATE              : 1  STOPPED 
+SERVICE_NAME: webthreatdefsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: Wecsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WEPHOSTSVC
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wercplsupport
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WerSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WFDSConMgrSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WiaRpc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WinRM
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wisvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wlidsvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wlpasvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WManSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wmiApSrv
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WMPNetworkSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: workfolderssvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WpcMonSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WPDBusEnum
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wuauserv
+        STATE              : 1  STOPPED 
+SERVICE_NAME: wuqisvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WwanSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: XblGameSave
+        STATE              : 1  STOPPED 
+SERVICE_NAME: XboxGipSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: XboxNetApiSvc
+        STATE              : 1  STOPPED 
+SERVICE_NAME: AarSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: BcastDVRUserService_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: BluetoothUserService_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: CaptureService_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: ConsentUxUserSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: CredentialEnrollmentManagerUserSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: DeviceAssociationBrokerSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: DevicePickerUserSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: MessagingService_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: P9RdrService_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PimIndexMaintenanceSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: PrintWorkflowUserSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: UnistoreSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: UserDataSvc_b8062
+        STATE              : 1  STOPPED 
+SERVICE_NAME: WebManagementUser_b8062
+        STATE              : 1  STOPPED 
+ 
+[Р—РђР“Р РЈР–Р•РќРќР«Р• Р”Р РђР™Р’Р•Р Р«] 
+
+Модуль       Название               Тип драйвера  Дата ссылки           
+============ ====================== ============= ======================
+1394ohci     1394 OHCI-совместимый  Kernel                              
+3ware        3ware                  Kernel        19.05.2015 3:28:03    
+ACPI         Драйвер Microsoft ACPI Kernel                              
+AcpiAudioCom Драйвер компоновщика з Kernel                              
+AcpiDev      Драйвер устройств с AC Kernel                              
+acpiex       Microsoft ACPIEx Drive Kernel                              
+acpipagr     Драйвер агрегатора про Kernel                              
+AcpiPmi      Драйвер устройства изм Kernel                              
+acpitime     Драйвер ACPI Wake Alar Kernel                              
+ACSEHIDRemap ACSEHIDRemap Service   Kernel        30.09.2025 12:01:34   
+ACSEVirtualB ACSEVirtualBus Service Kernel        30.09.2025 12:01:41   
+Acx01000     Acx01000               Kernel                              
+ADP80XX      ADP80XX                Kernel        10.04.2015 1:49:48    
+AFD          Драйвер дополнительных Kernel                              
+afunix       afunix                 Kernel                              
+ahcache      Application Compatibil Kernel                              
+amdacpbus    Audio Coprocessr Drive Kernel        27.03.2025 13:20:33   
+amdfendr     AMD Crash Defender Dri Kernel        29.10.2024 1:43:25    
+amdfendrmgr  AMD Crash Defender Man Kernel        29.10.2024 1:43:45    
+amdgpio2     AMD GPIO Client Driver Kernel        20.08.2024 11:25:33   
+amdi2c       AMD I2C Controller Ser Kernel        20.08.2024 17:33:09   
+AmdK8        AMD K8 драйвер процесс Kernel                              
+AmdMicroPEP  AMD Micro PEP Device   Kernel        29.07.2024 22:45:45   
+amdpmf       AMD PMF Kernel Driver  Kernel        20.02.2025 18:45:01   
+AmdPpkg      AMD Provisioning Packa Kernel        11.03.2025 11:29:20   
+AmdPPM       Драйвер процессора AMD Kernel                              
+amdpsp       AMD PSP Service        Kernel        12.03.2025 1:57:19    
+amdsata      amdsata                Kernel        14.05.2015 17:14:52   
+amdsbs       amdsbs                 Kernel        12.12.2012 2:21:44    
+amduw23g     amduw23g               Kernel        11.04.2025 8:26:59    
+amdwps       Драйвер для планирован Kernel                              
+amdxata      amdxata                Kernel        01.05.2015 5:55:35    
+amd_dpfc     AMD_DPFC Service       Kernel        19.08.2024 9:14:16    
+AppID        Драйвер AppID          Kernel                              
+AppleSSD     Твердотельный накопите Kernel        12.11.2019 2:24:17    
+applockerflt Драйвер фильтра Smartl Kernel                              
+AppvStrm     AppvStrm               File System                         
+AppvVemgr    AppvVemgr              File System                         
+AppvVfs      AppvVfs                File System                         
+arcsas       Adaptec SAS/SATA-II RA Kernel        10.04.2015 0:12:07    
+Asusgio3     Asusgio3               Kernel        21.08.2025 8:04:12    
+AsusPTPDrv   ASUS Precision Touch S Kernel        09.04.2025 13:19:28   
+AsusSAIO     AsusSAIO               Kernel        05.02.2025 8:32:25    
+AsyncMac     Драйвер асинхронного н Kernel                              
+atapi        Канал IDE              Kernel                              
+AtiHDAudioSe AMD Function Driver fo Kernel        30.04.2024 19:51:17   
+ATKWMIACPIIO ATKWMIACPI Driver      Kernel        18.08.2025 9:31:30    
+ATKWMIACPIIO ATKWMIACPI Driver_     Kernel        02.07.2013 13:35:32   
+b06bdrv      Сетевой адаптер VBD QL Kernel        25.05.2016 12:03:08   
+bam          Background Activity Mo Kernel                              
+BasicDisplay BasicDisplay           Kernel                              
+BasicRender  BasicRender            Kernel                              
+bcmfn2       bcmfn2 Service         Kernel        01.11.2016 7:09:15    
+Beep         Beep                   Kernel                              
+bfs          Файловая система посре File System                         
+bindflt      Windows Bind Filter Dr File System                         
+BlueStacksDr BlueStacks Hypervisor_ Kernel        01.07.2025 11:18:04   
+bowser       Браузер                File System                         
+BthA2dp      Microsoft Bluetooth A2 Kernel                              
+BthEnum      Служба перечислителя B Kernel                              
+BthHFAud     Драйвер звука гарнитур Kernel                              
+BthHFEnum    Драйвер профиля гарнит Kernel                              
+BthLEEnum    Драйвер Bluetooth с ни Kernel                              
+BthMini      Драйвер радио Bluetoot Kernel                              
+BTHMODEM     Драйвер связи Bluetoot Kernel                              
+BthPan       Устройства Bluetooth ( Kernel                              
+BTHPORT      Драйвер порта Bluetoot Kernel                              
+BTHUSB       Драйвер порта USB ради Kernel                              
+bttflt       Фильтр Microsoft Hyper Kernel                              
+BTWDPAN      Bluetooth Personal Are Kernel        15.11.2010 23:33:45   
+buttonconver Служба для устройств к Kernel                              
+CAD          Драйвер вынесения реше Kernel                              
+CDD          Канонический драйвер д Kernel                              
+cdfs         CD/DVD File System Rea File System                         
+cdrom        Драйвер CD-ROM дисково Kernel                              
+cht4iscsi    cht4iscsi              Kernel        05.02.2019 18:51:31   
+cht4vbd      Драйвер виртуальной ши Kernel        05.02.2019 18:47:51   
+CimFS        CimFS                  File System                         
+circlass     Потребительские ИК-уст Kernel                              
+CldFlt       Windows Cloud Files Fi File System                         
+CLFS         Common Log (CLFS)      Kernel                              
+CmBatt       Драйвер батареи с ACPI Kernel                              
+CNG          CNG                    Kernel                              
+cnghwassist  CNG Hardware Assist al Kernel                              
+CompositeBus Драйвер перечислителя  Kernel                              
+condrv       Console Driver         Kernel                              
+CSC          Драйвер автономных фай Kernel                              
+dam          Desktop Activity Moder Kernel                              
+devmap       Служба сопоставителя у Kernel                              
+Dfsc         Драйвер клиента простр File System                         
+disk         Драйвер диска          Kernel                              
+DisplayMux   Microsoft DisplayMux   Kernel                              
+dmvsc        dmvsc                  Kernel                              
+drmkaud      Доверенные аудиодрайве Kernel                              
+DXGKrnl      LDDM Graphics Subsyste Kernel                              
+ebdrv        Адаптер QLogic 10 Giga Kernel        15.11.2020 15:12:10   
+ebdrv0       Устаревший Ethernet-ад Kernel        07.11.2020 15:07:41   
+ebrntdrv     ebrntdrv               Kernel        19.05.2022 12:04:21   
+EhStorClass  Enhanced Storage Filte Kernel                              
+EhStorTcgDrv Драйвер Майкрософт для Kernel                              
+epmdkdrv     epmdkdrv               Kernel        19.05.2022 12:04:21   
+ErrDev       Microsoft Hardware Err Kernel                              
+EUDCPEPM     EUDCPEPM               Kernel        07.12.2020 8:25:27    
+EUEDKEPM     EUEDKEPM               Kernel        18.05.2022 12:46:29   
+ExecutionCon CPU Scheduler for High Kernel                              
+exfat        exFAT File System Driv File System                         
+fastfat      FAT12/16/32 File Syste File System                         
+fdc          Драйвер контроллера ги Kernel                              
+FileCrypt    FileCrypt              File System                         
+FileInfo     File Information FS Mi File System                         
+Filetrace    Filetrace              File System                         
+flpydisk     Драйвер дисковода гибк Kernel                              
+FltMgr       Диспетчер фильтров     File System                         
+FsDepends    File System Dependency File System                         
+fse          Flow steering engine   Kernel                              
+fvevol       Драйвер фильтра шифров Kernel                              
+gameflt      gameflt                File System                         
+gencounter   Счетчик создания Micro Kernel                              
+genericusbfn Общий класс функции US Kernel                              
+GenPass      Драйвер Microsoft GenP Kernel                              
+GPIOClx0101  Microsoft GPIO Class E Kernel                              
+HdAudAddServ Драйвер функции UAA дл Kernel                              
+HDAudBus     Драйвер для шины UAA д Kernel                              
+HidBatt      Драйвер батареи ИБП HI Kernel                              
+HidBth       Microsoft Bluetooth HI Kernel                              
+hidi2c       Драйвер минипорта для  Kernel                              
+hidinterrupt Общий драйвер для кноп Kernel                              
+HidIr        Microsoft Infrared HID Kernel                              
+hidspi       Драйвер минипорта для  Kernel                              
+HidSpiCx     HidSpi KMDF Class Exte Kernel                              
+HidUsb       Драйвер класса HID Mic Kernel                              
+hnswfpdriver Драйвер HNS WFP        Kernel                              
+HoYoProtect  HoYoProtect            Kernel        24.06.2025 11:14:39   
+HpSAMD       HpSAMD                 Kernel        27.03.2013 2:36:54    
+Hsp          Служба Microsoft Pluto Kernel                              
+HTTP         HTTP-служба            Kernel                              
+hvcrash      hvcrash                Kernel                              
+hvservice    Драйвер службы низкоур Kernel                              
+hvsocketcont hvsocketcontrol        Kernel                              
+HwNClx0101   Microsoft Hardware Not Kernel                              
+hwpolicy     Hardware Policy Driver Kernel                              
+hyperkbd     hyperkbd               Kernel                              
+HyperVideo   HyperVideo             Kernel                              
+I3CHost      Служба хост-контроллер Kernel                              
+i8042prt     Драйвер i8042-клавиату Kernel                              
+iagpio       Драйвер контроллера GP Kernel        23.07.2018 14:04:46   
+iai2c        Intel(R) Serial IO I2C Kernel        23.07.2018 14:04:39   
+iaLPSS2i_GPI Драйвер версии 2 Intel Kernel        19.04.2018 12:53:24   
+iaLPSS2i_GPI Драйвер версии 2 интер Kernel        17.04.2018 14:25:15   
+iaLPSS2i_GPI Драйвер версии 2 интер Kernel        17.04.2018 12:07:03   
+iaLPSS2i_GPI Драйвер версии 2 интер Kernel        16.05.2018 10:46:36   
+iaLPSS2i_I2C Драйвер версии 2 Intel Kernel        19.04.2018 12:52:58   
+iaLPSS2i_I2C Драйвер версии 2 I2C д Kernel        17.04.2018 14:24:40   
+iaLPSS2i_I2C Драйвер версии 2 интер Kernel        15.07.2019 10:12:12   
+iaLPSS2i_I2C Драйвер версии 2 интер Kernel        16.05.2018 10:46:02   
+iaLPSSi_GPIO Драйвер контроллера In Kernel        02.02.2015 14:00:09   
+iaLPSSi_I2C  Драйвер Intel(R) Seria Kernel        24.02.2015 20:52:07   
+iaStorAVC    RAID-контроллер SATA д Kernel        05.09.2019 17:07:32   
+iaStorV      RAID-контроллер Intel  Kernel        11.04.2011 23:48:16   
+ibbus        Mellanox InfiniBand Bu Kernel        19.06.2019 18:20:09   
+IndirectKmd  Драйвер режима ядра не Kernel                              
+IntcAzAudAdd Service for Realtek HD Kernel        18.03.2025 14:12:56   
+intelide     intelide               Kernel                              
+intelpep     Драйвер подключаемого  Kernel                              
+intelpmax    Драйвер диспетчера Int Kernel                              
+IntelPMT     Служба технологии мони Kernel                              
+intelppm     Драйвер Intel процессо Kernel                              
+iorate       Драйвер фильтра скорос Kernel                              
+IpFilterDriv Драйвер фильтра IP-тра Kernel                              
+IPMIDRV      IPMIDRV                Kernel                              
+IPNAT        IP Network Address Tra Kernel                              
+IPT          IPT                    Kernel                              
+IpuMcdmDrive IpuMcdmDriver          Kernel        04.12.2024 6:30:31    
+isapnp       isapnp                 Kernel                              
+iScsiPrt     Драйвер iScsiPort      Kernel                              
+ItSas35i     ItSas35i               Kernel        01.03.2021 15:15:20   
+IUFileFilter IUFileFilter           File System   05.07.2023 12:54:56   
+IUProcessFil IUProcessFilter        Kernel        21.04.2025 8:19:13    
+IURegistryFi IURegistryFilter       Kernel        31.07.2025 12:19:11   
+kbdclass     Драйвер класса клавиат Kernel                              
+kbdhid       Драйвер клавиатуры HID Kernel                              
+kbldfltr     kbldfltr               Kernel                              
+kdnic        Мини-порт сетевого ада Kernel                              
+kdnic_legacy Мини-порт сетевого ада Kernel                              
+KSecDD       KSecDD                 Kernel                              
+KSecPkg      KSecPkg                Kernel                              
+KslD         KslD                   Kernel                              
+ksthunk      Kernel Streaming Thunk Kernel                              
+l1vhlwf      Вложенная виртуализаци Kernel                              
+l2bridge     Драйвер моста          Kernel                              
+lltdio       Ответчик обнаружения т Kernel                              
+LPCFilter    LPC Lower Filter Drive Kernel        06.03.2012 19:58:27   
+LSI_SAS      LSI_SAS                Kernel        26.03.2015 0:36:48    
+LSI_SAS2i    LSI_SAS2i              Kernel        02.08.2017 18:29:59   
+LSI_SAS3i    LSI_SAS3i              Kernel        21.08.2020 12:33:28   
+luafv        Виртуализация файла ко File System                         
+lxss         lxss                   Kernel                              
+mausbhost    Драйвер хост-контролле Kernel                              
+mausbip      Драйвер IP-фильтр MA-U Kernel                              
+MbbCx        MBB Network Adapter Cl Kernel                              
+megasas2i    megasas2i              Kernel        22.01.2020 14:57:48   
+megasas35i   megasas35i             Kernel        12.01.2021 12:59:10   
+megasr       megasr                 Kernel        04.06.2013 3:02:39    
+Microsoft_Bl Драйвер транспорта AVR Kernel                              
+mlx4_bus     Перечислитель шины Mel Kernel        19.06.2019 18:21:08   
+MMCSS        Multimedia Class Sched Kernel                              
+Modem        Modem                  Kernel                              
+monitor      Microsoft Monitor Clas Kernel                              
+mouclass     Драйвер класса мыши    Kernel                              
+mouhid       Драйвер мыши HID       Kernel                              
+mountmgr     Диспетчер точек подклю Kernel                              
+mpi3drvi     mpi3drvi               Kernel        17.11.2021 3:22:38    
+mpsdrv       Windows Defender Firew Kernel                              
+MRxDAV       Драйвер перенаправител File System                         
+mrxsmb       Оболочка и модуль мини File System                         
+mrxsmb20     Мини-перенаправитель S File System                         
+MsBridge     MAC-мост (Майкрософт)  Kernel                              
+Msfs         Msfs                   File System                         
+msgpiowin32  Общий драйвер для кноп Kernel                              
+mshidkmdf    Pass-through HID to KM Kernel                              
+mshidumdf    Сквозной драйвер HID-U Kernel                              
+msisadrv     msisadrv               Kernel                              
+MSKSSRV      Представитель служб по Kernel                              
+MsLldp       Протокол Microsoft LLD Kernel                              
+MSPCLOCK     Посредник синхронизаци Kernel                              
+MSPQM        Представитель диспетче Kernel                              
+MsQuic       MsQuic                 Kernel                              
+MsQuicPrev   MSQUIC                 Kernel                              
+MsRPC        MsRPC                  Kernel                              
+MsSecCore    Драйвер загрузки ядра  Kernel                              
+MsSecFlt     Мини-фильтр компонента Kernel                              
+MsSecWfp     Драйвер вызова Microso Kernel                              
+mssmbios     Драйвер Microsoft Syst Kernel                              
+MSTEE        Преобразователь потоко Kernel                              
+MTConfig     Microsoft Input Config Kernel                              
+Mup          Mup                    File System                         
+mvumis       mvumis                 Kernel        24.05.2014 1:39:04    
+NativeWifiP  Фильтр NativeWiFi      Kernel                              
+ndfltr       Служба NetworkDirect   Kernel        19.06.2019 18:18:42   
+NDIS         Системный драйвер NDIS Kernel                              
+NdisCap      Захват Microsoft NDIS  Kernel                              
+NdisImPlatfo Протокол мультиплексор Kernel                              
+NdisTapi     NDIS-драйвер TAPI удал Kernel                              
+Ndisuio      NDIS Usermode I/O Prot Kernel                              
+NdisVirtualB Перечислитель виртуаль Kernel                              
+NdisWan      NDIS-драйвер глобально Kernel                              
+ndiswanlegac Устаревшая версия NDIS Kernel                              
+NDKPerf      NDKPerf Driver         Kernel                              
+NDKPing      NDKPing Driver         Kernel                              
+ndproxy      NDIS Proxy Driver      Kernel                              
+Ndu          Windows Network Data U Kernel                              
+NetAdapterCx Network Adapter WDF Cl Kernel                              
+NetBIOS      NetBIOS Interface      File System                         
+NetBT        NetBT                  Kernel                              
+netvsc       netvsc                 Kernel                              
+NetworkPriva Microsoft Network Priv Kernel                              
+Npfs         Npfs                   File System                         
+npsvctrig    Named pipe service tri Kernel                              
+nsiproxy     NSI Proxy Service Driv Kernel                              
+Ntfs         Ntfs                   File System                         
+Null         Null                   Kernel                              
+nvdimm       Драйвер устройства (Ма Kernel                              
+NVHDA        Service for NVIDIA Hig Kernel        03.06.2025 9:59:09    
+nvlddmkm     nvlddmkm               Kernel        22.08.2025 3:27:13    
+nvme         nvme                   Kernel        23.02.2018 8:38:12    
+nvmedisk     Драйвер диска Microsof Kernel                              
+nvpcf        NVPCF Service          Kernel        18.07.2025 11:08:00   
+nvraid       nvraid                 Kernel        21.04.2014 23:28:42   
+nvstor       nvstor                 Kernel        21.04.2014 23:34:03   
+nvvad_WaveEx NVIDIA Virtual Audio D Kernel        28.02.2024 17:30:52   
+P9Rdr        Plan 9 Redirector Driv Kernel                              
+Parport      Драйвер параллельного  Kernel                              
+partmgr      Драйвер разделов       Kernel                              
+passthrupars PassthroughParser      Kernel                              
+pci          Драйвер шины PCI       Kernel                              
+pciide       pciide                 Kernel                              
+pcmcia       pcmcia                 Kernel                              
+pcw          Performance Counters f Kernel                              
+pdc          pdc                    Kernel                              
+PEAUTH       PEAUTH                 Kernel                              
+percsas2i    percsas2i              Kernel        15.03.2016 5:50:11    
+percsas3i    percsas3i              Kernel        02.06.2018 2:47:02    
+PktMon       Packet Monitor Driver  Kernel                              
+PktMonApi    Packet Monitor Export  Kernel                              
+PlutonHeci   Microsoft Pluton Secur Kernel                              
+PlutonHsp2   Microsoft Pluton Servi Kernel                              
+pmem         Драйвер диска энергоне Kernel                              
+PNPMEM       Драйвер модуля памяти  Kernel                              
+portcfg      portcfg                Kernel                              
+PptpMiniport Мини-порт глобальной с Kernel                              
+PRHidDrv     Parade HID Device      Kernel        18.12.2024 13:01:21   
+PRM          Драйвер Microsoft PRM  Kernel                              
+Processor    Драйвер процессора     Kernel                              
+PRSpbDrv     Parade SPB Peripheral  Kernel        18.12.2024 12:02:53   
+Psched       Планировщик пакетов Qo Kernel                              
+pvhdparser   pvhdparser             Kernel                              
+pvscsi       pvscsi Storage Control Kernel        20.05.2021 8:55:26    
+QWAVEdrv     Драйвер QWAVE          Kernel                              
+Ramdisk      Драйвер Windows RAM-ди Kernel                              
+RasAcd       Remote Access Auto Con Kernel                              
+RasAgileVpn  Мини-порт глобальной с Kernel                              
+Rasl2tp      Мини-порт глобальной с Kernel                              
+RasPppoe     Драйвер PPPOE для удал Kernel                              
+RasSstp      Мини-порт глобальной с Kernel                              
+rdbss        Перенаправленная подси File System                         
+rdpbus       Драйвер шины перенапра Kernel                              
+RDPDR        Драйвер перенаправител Kernel                              
+rdyboost     ReadyBoost             Kernel                              
+ReFS         ReFS                   File System                         
+ReFSv1       ReFSv1                 File System                         
+RFCOMM       Bluetooth Device (RFCO Kernel                              
+rhproxy      Драйвер прокси-сервера Kernel                              
+rspndr       Отвечающее устройство  Kernel                              
+rt68cx21     Realtek NetAdapter Dri Kernel        03.09.2024 20:17:34   
+rtcx21       Realtek NetAdapter Dri Kernel        04.10.2021 11:54:20   
+RtkBtFilter2 Realtek Bluetooth Filt Kernel        15.05.2025 14:33:59   
+RtkBthLeVDsp Realtek Bluetooth LE A Kernel        18.03.2025 6:23:55    
+rtwlane602   Realtek Wireless LAN 8 Kernel        28.08.2025 8:05:55    
+RvNetMP60    Famatech Radmin VPN Mi Kernel        11.08.2022 17:40:11   
+s3cap        s3cap                  Kernel                              
+sbp2port     SBP-2 драйвер шины тра Kernel                              
+scfilter     Драйвер фильтра смарт- Kernel                              
+scmbus       Драйвер Microsoft шины Kernel                              
+sdbus        sdbus                  Kernel                              
+SdcaHidInbox Драйвер HID SoundWire  Kernel                              
+SdcaMfdInbox Многофункциональный др Kernel                              
+sdstor       Драйвер порта SD Stora Kernel                              
+SerCx        Serial UART Support Li Kernel                              
+SerCx2       Serial UART Support Li Kernel                              
+Serenum      Драйвер фильтра Serenu Kernel                              
+Serial       Драйвер последовательн Kernel                              
+sermouse     Драйвер мыши для посл. Kernel                              
+sfloppy      Дисковод большой емкос Kernel                              
+SiSRaid2     SiSRaid2               Kernel        24.09.2008 23:28:20   
+SiSRaid4     SiSRaid4               Kernel        02.10.2008 2:56:04    
+SmartSAMD    SmartSAMD              Kernel        21.02.2019 22:54:44   
+smbdirect    smbdirect              File System                         
+spaceparser  spaceparser            Kernel                              
+spaceport    Драйвер дискового прос Kernel                              
+SpbCx        Simple Peripheral Bus  Kernel                              
+srv2         Драйвер сервера Server File System                         
+srvnet       srvnet                 File System                         
+stexstor     stexstor               Kernel        27.11.2012 5:02:51    
+storahci     Стандартный драйвер SA Kernel                              
+storflt      Ускоритель хранилища M Kernel                              
+stornvme     Стандартный драйвер NV Kernel                              
+storqosflt   Драйвер-фильтр качеств File System                         
+storufs      Драйвер для универсаль Kernel                              
+storvsc      storvsc                Kernel                              
+storvsp      storvsp                Kernel                              
+swenum       Драйвер программной ши Kernel                              
+tap0901      TAP-Windows Adapter V9 Kernel        21.04.2016 14:10:05   
+Tcpip        Драйвер протокола TCP/ Kernel                              
+Tcpip6       @todo.dll,-100;Microso Kernel                              
+tcpipreg     @%SystemRoot%\System32 Kernel                              
+tdx          Драйвер поддержки NetI Kernel                              
+terminpt     Microsoft Remote Deskt Kernel                              
+ThermalFilte Драйвер-фильтр Лава (М Kernel                              
+TPM          TPM                    Kernel                              
+TsUsbFlt     Драйвер-фильтр класса  Kernel                              
+TsUsbGD      Универсальное USB-устр Kernel                              
+tsusbhub     Remote Desktop USB Hub Kernel                              
+tunnel       Драйвер адаптера минип Kernel                              
+UASPStor     Драйвер USB-устройства Kernel                              
+UcmCx0101    USB Connector Manager  Kernel                              
+UcmTcpciCx01 UCM-TCPCI KMDF Class E Kernel                              
+UcmUcsiAcpiC Клиент ACPI UCM-UCSI   Kernel                              
+UcmUcsiCx010 UCM-UCSI KMDF Class Ex Kernel                              
+UCPD         UCPD                   File System                         
+Ucx01000     USB Host Support Libra Kernel                              
+UdeCx        USB Device Emulation S Kernel                              
+udfs         udfs                   File System                         
+UEFI         Драйвер UEFI (Майкросо Kernel                              
+UevAgentDriv UevAgentDriver         File System                         
+Ufx01000     USB Function Class Ext Kernel                              
+UfxChipidea  USB-контроллер Chipide Kernel                              
+ufxsynopsys  USB-котроллер Synopsys Kernel                              
+uiomap       Служба драйверов Micro Kernel                              
+umbus        UMBus драйвер перечисл Kernel                              
+UmPass       Драйвер UMPass Microso Kernel                              
+UnionFS      UnionFS                File System                         
+UrsChipidea  Драйвер с переключение Kernel                              
+UrsCx01000   USB Role-Switch Suppor Kernel                              
+UrsSynopsys  Драйвер с переключение Kernel                              
+usb-platform Драйвер обнаружения US Kernel                              
+Usb4DeviceRo Служба маршрутизатора  Kernel                              
+Usb4HostRout Служба маршрутизатора  Kernel                              
+usbaudio     Аудио драйвер USB (WDM Kernel                              
+usbaudio2    Служба USB Audio 2.0   Kernel                              
+usbccgp      Драйвер универсального Kernel                              
+usbcir       eHome инфракрасный рес Kernel                              
+usbehci      Драйвер минипорта Micr Kernel                              
+usbhub       Стандартный драйвер US Kernel                              
+USBHUB3      Концентратор SuperSpee Kernel                              
+usbohci      Драйвер минипорта Micr Kernel                              
+usbprint     Класс принтеров Micros Kernel                              
+usbrndis6    Адаптер USB RNDIS6     Kernel                              
+usbser       Драйвер последовательн Kernel                              
+USBSTOR      Драйвер запоминающих у Kernel                              
+usbuhci      Драйвер минипорта Micr Kernel                              
+usbvideo     USB-видеоустройство (W Kernel                              
+USBXHCI      xHCI-совместимый хост- Kernel                              
+VBoxNetAdp   VirtualBox NDIS 6.0 Mi Kernel        14.08.2025 0:55:19    
+VBoxNetLwf   VirtualBox NDIS6 Bridg Kernel        14.08.2025 0:55:19    
+VBoxSup      VirtualBox Service     Kernel        14.08.2025 0:56:35    
+VBoxUSBMon   VirtualBox USB Monitor Kernel        14.08.2025 0:55:19    
+vdrvroot     Перечислитель виртуаль Kernel                              
+VerifierExt  Расширение средства пр Kernel                              
+VfpExt       Microsoft Azure VFP Sw Kernel                              
+vhdmp        vhdmp                  Kernel                              
+vhdparser    vhdparser              Kernel                              
+vhf          Драйвер платформы Virt Kernel                              
+Vid          Vid                    Kernel                              
+VirtualRende VirtualRender          Kernel                              
+vmbus        Шина VMBus             Kernel                              
+VMBusHID     VMBusHID               Kernel                              
+vmbusproxy   vmbusproxy             Kernel                              
+vmbusr       Поставщик шины виртуал Kernel                              
+vmgid        Драйвер инфраструктуры Kernel                              
+vmsmp        vmsmp                  Kernel                              
+VMSNPXY      VmSwitch NIC Proxy Dri Kernel                              
+VMSP         VmSwitch Protocol Driv Kernel                              
+VmsProxy     VmSwitch Proxy Driver  Kernel                              
+VMSVSF       VmSwitch Extensibility Kernel                              
+VMSVSP       VmSwitch Extensibility Kernel                              
+vmulti       HUION HID              Kernel        04.08.2023 12:53:34   
+volmgr       Драйвер диспетчера том Kernel                              
+volmgrx      Диспетчер динамических Kernel                              
+volsnap      Драйвер теневого копир Kernel                              
+volume       Драйвер тома           Kernel                              
+vpci         Виртуальная шина PCI M Kernel                              
+vpcivsp      Сервер PCI Microsoft H Kernel                              
+vsmraid      vsmraid                Kernel        23.04.2014 0:21:41    
+VSTXRAID     Драйвер RAID-контролле Kernel        22.01.2013 0:00:28    
+vwifibus     Драйвер шины виртуальн Kernel                              
+vwififlt     Virtual WiFi Filter Dr Kernel                              
+vwifimp      Служба мини-порта вирт Kernel                              
+WacomPen     Wacom - драйвер пера п Kernel                              
+wanarp       Драйвер IP ARP для уда Kernel                              
+wanarpv6     Драйвер IPv6 ARP для у Kernel                              
+wcifs        Windows Container Isol File System                         
+WdBoot       Драйвер загрузки антив Kernel                              
+Wdf01000     Служба платформ драйве Kernel                              
+WdFilter     Драйвер с функцией мин File System                         
+wdiwifi      WDI Driver Framework   Kernel                              
+WdmCompanion WdmCompanionFilter     Kernel                              
+WdNisDrv     Системный драйвер пров Kernel                              
+WFPLWFS      Платформа фильтрации M Kernel                              
+Wificx       Wifi Network Adapter C Kernel                              
+WIMMount     WIMMount               File System                         
+WinAccelCx01 Microsoft Accelerator  Kernel                              
+WindowsTrust Windows Trusted Execut Kernel                              
+WindowsTrust Служба безопасности до Kernel                              
+wini3ctarget Универсальный драйвер  Kernel                              
+WinMad       Служба WinMad          Kernel        19.06.2019 18:18:11   
+WinNat       Драйвер NAT Windows    Kernel                              
+WINUSB       Драйвер WinUsb         Kernel                              
+WinVerbs     Служба WinVerbs        Kernel        19.06.2019 18:18:12   
+WmiAcpi      Microsoft Windows Mana Kernel                              
+Wof          Windows Overlay File S File System                         
+WpdUpFltr    WPD Upper Class Filter Kernel                              
+ws2ifsl      Драйвер WinSock IFS    Kernel                              
+WSDPrintDevi Поддержка печати WSD   Kernel                              
+WSDScan      Поддержка сканирования Kernel                              
+wtd          wtd                    Kernel                              
+WudfPf       User Mode Driver Frame Kernel                              
+WUDFRd       Windows Driver Foundat Kernel                              
+WUDFWpdFs    Драйвер файловой систе Kernel                              
+WUDFWpdMtp   WUDFWpdMtp             Kernel                              
+xboxgip      Драйвер протокола игро Kernel                              
+xinputhid    Драйвер-фильтр HID XIN Kernel                              
+Xvdd         XVDD Port Driver       Kernel                              
+WinDivert    WinDivert              Kernel        20.09.2022 6:09:22    
+ 
+[USB РЈРЎРўР РћР™РЎРўР’Рђ] 
+"wmic" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+ 
+[РРќР¤РћР РњРђР¦РРЇ Рћ РџРРўРђРќРР] 
+Р‘Р°С‚Р°СЂРµСЏ: РћС‚С‡РµС‚ СЃРіРµРЅРµСЂРёСЂРѕРІР°РЅ 
+ 
+======================================== 
+Р›РѕРі СѓСЃРїРµС€РЅРѕ СЃРѕР·РґР°РЅ: logs\system_log_2025-11-25_17-30-38.txt 
+======================================== 
