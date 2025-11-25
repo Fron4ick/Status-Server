@@ -101,11 +101,13 @@ echo [✓] Лог создан: %LOG_FILE%
 
 REM --- GIT COMMIT ---
 echo.
-echo [*] Выполняется коммит в Git...
+echo ================================
+echo GIT COMMIT
+echo ================================
 
 REM Проверяем наличие .git
 if not exist ".git" (
-    echo [✗] ОШИБКА: Папка .git не найдена!
+    echo [X] ОШИБКА: Папка .git не найдена!
     echo [!] Убедитесь, что скрипт находится в Git-репозитории
     pause
     exit /b 1
@@ -114,34 +116,75 @@ if not exist ".git" (
 REM Проверяем, установлен ли git
 where git >nul 2>&1
 if %errorlevel% neq 0 (
-    echo [✗] ОШИБКА: Git не найден в PATH!
+    echo [X] ОШИБКА: Git не найден в PATH!
     echo [!] Установите Git или добавьте его в PATH
     pause
     exit /b 1
 )
 
+echo [*] Текущая директория: %CD%
+echo.
+
+REM Проверяем статус Git
+echo [*] Проверяем статус репозитория...
+git status
+echo.
+
+REM Проверяем конфигурацию Git
+echo [*] Проверяем конфигурацию Git...
+git config user.name >nul 2>&1
+if %errorlevel% neq 0 (
+    echo [!] Git user.name не настроен, устанавливаем...
+    git config user.name "System Logger"
+)
+git config user.email >nul 2>&1
+if %errorlevel% neq 0 (
+    echo [!] Git user.email не настроен, устанавливаем...
+    git config user.email "logger@localhost"
+)
+
+echo Git User: 
+git config user.name
+git config user.email
+echo.
+
 REM Добавляем все изменения
 echo [*] Добавляем файлы в индекс...
-git add -A 2>&1
+git add -A
+echo Код возврата git add: %errorlevel%
+echo.
 
-REM Проверяем, есть ли изменения
-git diff-index --quiet HEAD -- 2>nul
+REM Показываем что добавлено
+echo [*] Файлы в индексе:
+git diff --cached --name-only
+echo.
+
+REM Проверяем, есть ли изменения для коммита
+git diff --cached --quiet
 if %errorlevel% neq 0 (
-    REM Формируем сообщение коммита
+    REM Есть изменения, делаем коммит
     set COMMIT_MSG=Auto-commit: System log %timestamp%
     
-    REM Делаем коммит
-    echo [*] Создаём коммит...
-    git commit -m "!COMMIT_MSG!" 2>&1
+    echo [*] Создаём коммит с сообщением: !COMMIT_MSG!
+    git commit -m "!COMMIT_MSG!"
+    set git_result=!errorlevel!
     
-    if !errorlevel! equ 0 (
-        echo [✓] Git коммит выполнен успешно!
-        echo [i] Сообщение: !COMMIT_MSG!
+    echo Код возврата git commit: !git_result!
+    
+    if !git_result! equ 0 (
+        echo.
+        echo [OK] Git коммит выполнен успешно!
+        echo [i] Последний коммит:
+        git log -1 --oneline
     ) else (
-        echo [✗] Ошибка при создании коммита!
+        echo.
+        echo [X] Ошибка при создании коммита!
+        echo [!] Попробуйте выполнить коммит вручную:
+        echo     git add -A
+        echo     git commit -m "manual commit"
     )
 ) else (
-    echo [i] Нет изменений для коммита
+    echo [i] Нет изменений для коммита (все файлы уже закоммичены)
 )
 
 echo.
